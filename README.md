@@ -25,12 +25,3 @@ used since it contains many issues and has hardly anyting usable.
 - custom basic language (barebones)
 - more utility software (custom htop, etc)
 
-## Testing of the lfs
-
-The iso image for the OS can be found found at
-
-`/linux/arch/x86/boot/image.iso`
-
-I mainly use qemu as my testing platform 
-but others can work too
-
