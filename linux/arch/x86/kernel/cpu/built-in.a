@@ -1,0 +1,57 @@
+!<thin>
+//                                              350       `
+cacheinfo.o/
+scattered.o/
+topology_common.o/
+topology_ext.o/
+topology_amd.o/
+common.o/
+rdrand.o/
+match.o/
+bugs.o/
+aperfmperf.o/
+cpuid-deps.o/
+cpuid_0x2_table.o/
+umwait.o/
+capflags.o/
+powerflags.o/
+topology.o/
+feat_ctl.o/
+intel.o/
+tsx.o/
+amd.o/
+hygon.o/
+centaur.o/
+zhaoxin.o/
+microcode/core.o/
+microcode/intel.o/
+microcode/amd.o/
+perfctr-watchdog.o/
+
+/0              0           0     0     644     11104     `
+/13             0           0     0     644     1896      `
+/26             0           0     0     644     4952      `
+/45             0           0     0     644     2952      `
+/61             0           0     0     644     4632      `
+/77             0           0     0     644     49288     `
+/87             0           0     0     644     1520      `
+/97             0           0     0     644     3448      `
+/106            0           0     0     644     55576     `
+/114            0           0     0     644     5712      `
+/128            0           0     0     644     3288      `
+/142            0           0     0     644     2112      `
+/161            0           0     0     644     4008      `
+/171            0           0     0     644     20120     `
+/183            0           0     0     644     1912      `
+/197            0           0     0     644     44272     `
+/209            0           0     0     644     3080      `
+/221            0           0     0     644     9672      `
+/230            0           0     0     644     6448      `
+/237            0           0     0     644     18608     `
+/244            0           0     0     644     4848      `
+/253            0           0     0     644     3096      `
+/264            0           0     0     644     3080      `
+/275            0           0     0     644     8160      `
+/293            0           0     0     644     11944     `
+/312            0           0     0     644     17320     `
+/329            0           0     0     644     3128      `

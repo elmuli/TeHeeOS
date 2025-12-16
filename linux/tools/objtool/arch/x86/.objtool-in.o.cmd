@@ -1,0 +1,1 @@
+cmd_/home/elmuli/DevLop/LinuxOS/linux/tools/objtool/arch/x86/objtool-in.o :=  ld -r -o /home/elmuli/DevLop/LinuxOS/linux/tools/objtool/arch/x86/objtool-in.o  /home/elmuli/DevLop/LinuxOS/linux/tools/objtool/arch/x86/decode.o /home/elmuli/DevLop/LinuxOS/linux/tools/objtool/arch/x86/special.o /home/elmuli/DevLop/LinuxOS/linux/tools/objtool/arch/x86/orc.o

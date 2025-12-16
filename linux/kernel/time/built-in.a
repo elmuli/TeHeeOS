@@ -1,0 +1,37 @@
+!<thin>
+//                                              224       `
+time.o/
+timer.o/
+hrtimer.o/
+sleep_timeout.o/
+timekeeping.o/
+ntp.o/
+clocksource.o/
+jiffies.o/
+timer_list.o/
+timeconv.o/
+timecounter.o/
+alarmtimer.o/
+posix-stubs.o/
+clockevents.o/
+tick-common.o/
+tick-broadcast.o/
+vsyscall.o/
+
+/0              0           0     0     644     11192     `
+/8              0           0     0     644     15904     `
+/17             0           0     0     644     12840     `
+/28             0           0     0     644     6608      `
+/45             0           0     0     644     34280     `
+/60             0           0     0     644     8936      `
+/67             0           0     0     644     19272     `
+/82             0           0     0     644     6056      `
+/93             0           0     0     644     4616      `
+/107            0           0     0     644     1840      `
+/119            0           0     0     644     2176      `
+/134            0           0     0     644     7808      `
+/148            0           0     0     644     2496      `
+/163            0           0     0     644     7088      `
+/178            0           0     0     644     5848      `
+/193            0           0     0     644     6848      `
+/211            0           0     0     644     2144      `

@@ -1,0 +1,46 @@
+!<thin>
+//                                              262       `
+component.o/
+core.o/
+bus.o/
+dd.o/
+syscore.o/
+driver.o/
+class.o/
+platform.o/
+cpu.o/
+firmware.o/
+init.o/
+map.o/
+devres.o/
+attribute_container.o/
+transport_class.o/
+topology.o/
+container.o/
+property.o/
+cacheinfo.o/
+swnode.o/
+faux.o/
+firmware_loader/builtin/main.o/
+/0              0           0     0     644     10640     `
+/13             0           0     0     644     59544     `
+/21             0           0     0     644     21064     `
+/28             0           0     0     644     20456     `
+/34             0           0     0     644     3136      `
+/45             0           0     0     644     5496      `
+/55             0           0     0     644     11760     `
+/64             0           0     0     644     21080     `
+/76             0           0     0     644     9704      `
+/83             0           0     0     644     1944      `
+/95             0           0     0     644     1824      `
+/103            0           0     0     644     2656      `
+/110            0           0     0     644     14528     `
+/120            0           0     0     644     7888      `
+/143            0           0     0     644     5384      `
+/162            0           0     0     644     4080      `
+/174            0           0     0     644     2216      `
+/187            0           0     0     644     22504     `
+/199            0           0     0     644     11872     `
+/212            0           0     0     644     17048     `
+/222            0           0     0     644     5864      `
+/230            0           0     0     644     960       `

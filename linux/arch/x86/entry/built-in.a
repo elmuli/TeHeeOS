@@ -1,0 +1,19 @@
+!<thin>
+//                                              138       `
+entry.o/
+entry_64.o/
+syscall_64.o/
+vdso/vma.o/
+vdso/extable.o/
+vdso/vdso-image-64.o/
+vsyscall/vsyscall_64.o/
+vsyscall/vsyscall_emu_64.o/
+
+/0              0           0     0     644     3136      `
+/9              0           0     0     644     46328     `
+/21             0           0     0     644     49064     `
+/35             0           0     0     644     5064      `
+/47             0           0     0     644     1296      `
+/63             0           0     0     644     10440     `
+/85             0           0     0     644     9040      `
+/109            0           0     0     644     4936      `
