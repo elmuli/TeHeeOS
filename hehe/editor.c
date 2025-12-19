@@ -17,7 +17,7 @@ int main(int argc, char *argv[])
         write(1, "Sum ting wong\r\n", 15);
         _exit(-1);
     }
-
+  
 
     if(argv[2] != NULL){
         row = atoi(argv[2]);
@@ -42,9 +42,9 @@ int main(int argc, char *argv[])
         int ret = read(0, text, 512);
         text[ret - 1] = '\0';
         if(strcmp(text, "ENDL") == 0){
-            break;
             close(fd);
             _exit(0);
+            break;
         }
         text[ret - 1] = '\n';
         write(fd, text, ret);
