@@ -35,22 +35,33 @@ int main(int argc, char *argv[])
         }
         if (can_continue){
             int counter = 0;
-            while (current_row < row && can_read){
+            while (current_row <= row && can_read){
+                if(counter > 4096){
+                    can_read = 0;
+                    buf[4096] = '\0';
+                    break;
+                }
                 int r = read(fd, &c, 1);
                 if (r <= 0){
                     can_read = 0;
+                    buf[counter] = '\0';
                     break;
                 }
 
                 if (c == '\n') {
                     current_row++;
+                }else if(c == 0 || c == '0'){
+                    can_read = 0;
+                    buf[counter] = '\0';
+                    printf("break point\n");
+                    break;
                 }
                 buf[counter] = c;
                 counter++;
             }
             write(1, buf, 4096);
-            if(current_row == row && can_read){
-                write(1, "-- more --\r\n", 12);
+            if(current_row == row+1 && can_read){
+                write(1, "-- more --", 10);
                 current_row = 1;
                 can_continue = 0;
             }else if(!can_read){
