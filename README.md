@@ -30,4 +30,5 @@ used since it contains many issues and has hardly anyting usable.
 I use qemu as my virtualization platform but you can use what ever you want.
 
 To try it with qemu run this command
+
     $ qemu-system-x86_64 -cdrom iso/TeHeeOS-0.0.1.iso
