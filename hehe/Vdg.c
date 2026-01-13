@@ -21,7 +21,6 @@ Row *row_new(const char *r_buf){
     Row *R = malloc(sizeof(Row));
     if (R != NULL){
         strcpy(R->r_buf, r_buf);
-        //R->r_buf[sizeof(R->r_buf) - 2] = '\n';
         R->next = NULL;
         return R;
     }else{
@@ -59,7 +58,6 @@ int main(int argc, char *argv[])
     }
 
     Row *head = NULL;
-    
 
     for(int i=0; i<513; i++){
         int r = read(fd, &c, 1);
@@ -69,18 +67,15 @@ int main(int argc, char *argv[])
         if (c == '\n') {
             current_row++;
             Rows_push_front(&head, buf);
-            strcpy(buf, "\0");
-            printf("%i\n", i);
             i = 0;
+            printf("%i\n", current_row);
             continue;
         }
     }
-    
 
     for (;;) {
         for(Row *cur = head; cur; cur = cur->next){
-            write(1, cur->r_buf, 512);
-            printf("Row %d\n", cur);
+            write(1, cur->r_buf, sizeof(cur->r_buf));
         }
         break;
     }
