@@ -6,7 +6,7 @@
 
 char buf[4096];
 char c;
-int row = 23;
+static int row = 23;
 int current_row = 1;
 int can_read = 1;
 int can_continue = 1;
