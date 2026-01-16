@@ -9434,7 +9434,7 @@ ffffffff81402bc4 0000000000000004 d levels
 ffffffff8130c1f0 000000000000005e t lf
 ffffffff812c2c70 00000000000004ab t link_path_walk
 ffffffff8123fea0 0000000000000037 t link_pwq
-ffffffff8141f8e0 0000000000000080 D linux_banner
+ffffffff8141f8e0 000000000000007f D linux_banner
 ffffffff814000e0 000000000000005b D linux_proc_banner
 ffffffff816ddd30 0000000000000075 T list_bdev_fs_names
 ffffffff81275420 0000000000000024 t list_del
