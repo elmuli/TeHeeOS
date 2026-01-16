@@ -8,16 +8,16 @@ used since it contains many issues and has hardly anyting usable.
 ## Current working features
 
 - working small shell with main commands
-    (ls, cd, rm, mkdir, pwd)
+    (ls, cd, rm, mkdir, pwd, cp)
 - small cli text editor
-- evenless 
+- eless 
     (program to print files on the shell)
+- pseudo env variables (/bin, /usr/bin)
+    now can call utilities from anywhere
 
 ## Current planned features? maybe? who knows
 
 - better text editor
-- fixing of some shell commands
-- env support (mainly for PATH)
 - c compiler
 
 ## Far fetched feature ideas
