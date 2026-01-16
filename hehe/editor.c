@@ -11,7 +11,7 @@ char c;
 
 int main(int argc, char *argv[])
 {
-    int fd = open(argv[1], O_RDWR | O_CREAT, 0777);
+    int fd = open(argv[1], O_RDWR | O_CREAT, 0644);
 
     if(fd == -1){
         write(1, "Sum ting wong\r\n", 15);

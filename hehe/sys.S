@@ -7,7 +7,6 @@
 .global real_waitid
 .global _mkdir
 .global chdir
-.global rmdir
 .global getcwd
 .global _exit
 
@@ -44,11 +43,6 @@ ret
 
 chdir:
 mov rax, 80
-syscall
-ret
-
-rmdir:
-mov rax, 84
 syscall
 ret
 

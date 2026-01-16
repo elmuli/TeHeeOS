@@ -34,12 +34,6 @@ int main(int argc, char *argv[])
 
     do {
         ret = copy_file_range(fd_in, NULL, fd_out, NULL, 64, 0);
-
-        if (ret = -1) {
-            write(1, "Copy failed\r\n", 13);
-            _exit(-1);
-        }
-
     } while (size > 0 && ret > 0);
 
     close(fd_in);

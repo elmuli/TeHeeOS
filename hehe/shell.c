@@ -11,13 +11,22 @@ int _mkdir(const char *path, mode_t mode);
 int check_internal_commands(char *argv[]);
 int get_directory();
 
+char* envp[3];
+
 int main(){
-  char command[255];
+    char command[255];
+
+    envp[0] = "/bin/";
+    envp[1] = "/usr/bin";
+    envp[2] = "";
+
   for (;;){
    write(1, "# ", 2);
 
     int count = read(0, command, 255);
-    if (count > 0 && command[count - 1] == '\n') {
+    if (count == 1) {
+        continue;
+    }else if (count > 0 && command[count - 1] == '\n') {
         command[count - 1] = '\0';
     }else {
         command[count] = '\0';
@@ -44,12 +53,18 @@ int main(){
         continue;
     }
 
+
     command[count - 1] = 0;
     pid_t fork_result = fork();
 
     if(fork_result == 0){
-      execve(command, argv, 0);
-      _exit(-1);
+        for(int i=0;i<3;i++){
+            char dir[128];
+            strcpy(dir, envp[i]);
+            strcat(dir, command);
+            execve(dir, argv, 0);
+        }
+        _exit(-1);
     }else if(fork_result == -1){
       write(1, "Sum ting wong\r\n", 15);
     }else {
@@ -79,7 +94,6 @@ int get_directory(){
 
 int check_internal_commands(char *argv[]){
     int ret = 1;
-
     char *arg = argv[0];
 
     if(strcmp(arg, "cd") == 0){
@@ -87,15 +101,10 @@ int check_internal_commands(char *argv[]){
         if (ret != 0){
             perror("cd");
         }
-    }else if(strcmp(arg, "mkdir") == 0){
-        ret = _mkdir(argv[1], 0777);
     }else if(strcmp(arg, "ls") == 0){
         ret = get_directory();
-    }else if(strcmp(arg, "rm") == 0){
-        ret = rmdir(argv[1]);
-        if(!ret){
-            ret = unlink(argv[1]);
-        }
+    }else if(strcmp(arg, "mkdir") == 0){
+        ret = _mkdir(argv[1], 0777);
     }else if(strcmp(arg, "pwd") == 0){
         char path[2049] = "";
         getcwd(path, 2048);
