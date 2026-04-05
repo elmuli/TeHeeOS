@@ -13,67 +13,65 @@ int get_directory();
 
 char* envp[3];
 
-int main(){
+int main(int argc, char *argv[]){
     char command[255];
 
-    envp[0] = "/bin/";
-    envp[1] = "/usr/bin";
-    envp[2] = "";
+    *envp = argv[0];
 
-  for (;;){
-   write(1, "# ", 2);
+    for (;;){
+    write(1, "# ", 2);
 
-    int count = read(0, command, 255);
-    if (count == 1) {
-        continue;
-    }else if (count > 0 && command[count - 1] == '\n') {
-        command[count - 1] = '\0';
-    }else {
-        command[count] = '\0';
-    }
-
-    char *argv[16];
-    char *token;
-
-    token = strtok(command, " ");
-
-    int i = 0;
-    while (token != NULL || i == 15){
-        argv[i] = token;
-        token = strtok(NULL, " ");
-        i++;
-    }
-
-
-    int intCmCheck = check_internal_commands(argv);
-    if(intCmCheck == 0){
-        continue;
-    }else if(intCmCheck == -1){
-        write(1, "Sum ting wong\r\n", 15);
-        continue;
-    }
-
-
-    command[count - 1] = 0;
-    pid_t fork_result = fork();
-
-    if(fork_result == 0){
-        for(int i=0;i<3;i++){
-            char dir[128];
-            strcpy(dir, envp[i]);
-            strcat(dir, command);
-            execve(dir, argv, 0);
+        int count = read(0, command, 255);
+        if (count == 1) {
+            continue;
+        }else if (count > 0 && command[count - 1] == '\n') {
+            command[count - 1] = '\0';
+        }else {
+            command[count] = '\0';
         }
-        _exit(-1);
-    }else if(fork_result == -1){
-      write(1, "Sum ting wong\r\n", 15);
-    }else {
-      siginfo_t info;
-      real_waitid(P_ALL, 0, &info, WEXITED);
-    }
-  }
 
-  _exit(0);
+        char *_argv[16];
+        char *token;
+
+        token = strtok(command, " ");
+
+        int i = 0;
+        while (token != NULL || i == 15){
+            _argv[i] = token;
+            token = strtok(NULL, " ");
+            i++;
+        }
+
+
+        int intCmCheck = check_internal_commands(_argv);
+        if(intCmCheck == 0){
+            continue;
+        }else if(intCmCheck == -1){
+            write(1, "Sum ting wong\r\n", 15);
+            continue;
+        }
+
+
+        command[count - 1] = 0;
+        pid_t fork_result = fork();
+
+        if(fork_result == 0){
+            for(int i=0;i<3;i++){
+                char dir[128];
+                strcpy(dir, envp[i]);
+                strcat(dir, command);
+                execve(dir, _argv, 0);
+            }
+            _exit(-1);
+        }else if(fork_result == -1){
+        write(1, "Sum ting wong\r\n", 15);
+        }else {
+        siginfo_t info;
+        real_waitid(P_ALL, 0, &info, WEXITED);
+        }
+    }
+
+    _exit(0);
 }
 
 int get_directory(){
