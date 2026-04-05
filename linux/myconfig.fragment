@@ -1,0 +1,91 @@
+# =============================================
+# Kernel config fragment
+# Covers: base system, DRM/Wayland, input, IPC
+# Usage:
+#   scripts/kconfig/merge_config.sh .config myconfig.fragment
+#   make olddefconfig
+#   make -j$(nproc)
+# =============================================
+
+
+# --- Filesystems / Base system ---
+CONFIG_PROC_FS=y
+CONFIG_SYSFS=y
+CONFIG_KERNFS=y
+CONFIG_TMPFS=y
+CONFIG_TMPFS_POSIX_ACL=y
+CONFIG_FS_POSIX_ACL=y
+CONFIG_DEVTMPFS=y
+CONFIG_DEVTMPFS_MOUNT=y
+CONFIG_SHMEM=y
+
+
+# --- TTY / Serial / Console ---
+CONFIG_TTY=y
+CONFIG_UNIX98_PTYS=y
+CONFIG_VT=y
+CONFIG_VT_CONSOLE=y
+CONFIG_SERIAL_8250=y
+CONFIG_SERIAL_8250_CONSOLE=y
+
+
+# --- PCI bus (required by virtio) ---
+CONFIG_PCI=y
+
+
+# --- Virtio bus (required by virtio GPU) ---
+CONFIG_VIRTIO=y
+CONFIG_VIRTIO_PCI=y
+
+
+# --- DRM / KMS ---
+CONFIG_DRM=y
+CONFIG_DRM_KMS_HELPER=y
+CONFIG_DRM_VIRTIO_GPU=y
+CONFIG_DRM_FBDEV_EMULATION=y
+CONFIG_SYNC_FILE=y
+CONFIG_DMA_SHARED_BUFFER=y
+
+
+# --- Framebuffer (useful for pre-compositor debug output) ---
+CONFIG_FB=y
+CONFIG_FRAMEBUFFER_CONSOLE=y
+
+
+# --- Input core ---
+CONFIG_INPUT=y
+CONFIG_INPUT_EVDEV=y
+CONFIG_INPUT_KEYBOARD=y
+CONFIG_INPUT_MOUSE=y
+
+
+# --- PS/2 controller and devices ---
+CONFIG_SERIO=y
+CONFIG_SERIO_I8042=y
+CONFIG_KEYBOARD_ATKBD=y
+CONFIG_MOUSE_PS2=y
+
+
+# --- HID / USB input ---
+CONFIG_HID=y
+CONFIG_HID_GENERIC=y
+CONFIG_USB=y
+CONFIG_USB_HID=y
+CONFIG_USB_EHCI_HCD=y
+CONFIG_USB_XHCI_HCD=y
+
+
+# --- IPC / Wayland transport ---
+CONFIG_UNIX=y
+CONFIG_EVENTFD=y
+CONFIG_TIMERFD=y
+CONFIG_MEMFD_CREATE=y
+
+
+# --- Shared memory ---
+CONFIG_HUGETLBFS=y
+
+
+# --- Timekeeping ---
+CONFIG_POSIX_TIMERS=y
+CONFIG_HIGH_RES_TIMERS=y

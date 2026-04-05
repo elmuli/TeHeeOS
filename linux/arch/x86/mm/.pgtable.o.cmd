@@ -1091,7 +1091,6 @@ deps_arch/x86/mm/pgtable.o := \
   include/linux/kthread.h \
   include/linux/cgroup_namespace.h \
   include/linux/userfaultfd_k.h \
-  arch/x86/include/asm/pgalloc.h \
   include/linux/pagemap.h \
   include/linux/highmem.h \
   include/linux/cacheflush.h \
@@ -1100,16 +1099,9 @@ deps_arch/x86/mm/pgtable.o := \
   include/linux/kmsan.h \
   include/linux/dma-direction.h \
   include/linux/highmem-internal.h \
-  include/asm-generic/pgalloc.h \
-  arch/x86/include/asm/tlb.h \
-  include/asm-generic/tlb.h \
-    $(wildcard include/config/MMU_GATHER_TABLE_FREE) \
-    $(wildcard include/config/MMU_GATHER_RCU_TABLE_FREE) \
-    $(wildcard include/config/MMU_GATHER_NO_GATHER) \
-    $(wildcard include/config/MMU_GATHER_PAGE_SIZE) \
-    $(wildcard include/config/MMU_GATHER_NO_RANGE) \
-    $(wildcard include/config/MMU_GATHER_NO_FLUSH_CACHE) \
-    $(wildcard include/config/MMU_GATHER_MERGE_VMAS) \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
   include/linux/swap.h \
     $(wildcard include/config/THP_SWAP) \
   include/linux/memcontrol.h \
@@ -1215,6 +1207,18 @@ deps_arch/x86/mm/pgtable.o := \
   include/linux/node.h \
     $(wildcard include/config/HMEM_REPORTING) \
   include/uapi/linux/mempolicy.h \
+  include/linux/swapops.h \
+  arch/x86/include/asm/pgalloc.h \
+  include/asm-generic/pgalloc.h \
+  arch/x86/include/asm/tlb.h \
+  include/asm-generic/tlb.h \
+    $(wildcard include/config/MMU_GATHER_TABLE_FREE) \
+    $(wildcard include/config/MMU_GATHER_RCU_TABLE_FREE) \
+    $(wildcard include/config/MMU_GATHER_NO_GATHER) \
+    $(wildcard include/config/MMU_GATHER_PAGE_SIZE) \
+    $(wildcard include/config/MMU_GATHER_NO_RANGE) \
+    $(wildcard include/config/MMU_GATHER_NO_FLUSH_CACHE) \
+    $(wildcard include/config/MMU_GATHER_MERGE_VMAS) \
   arch/x86/include/asm/mtrr.h \
     $(wildcard include/config/MTRR) \
   arch/x86/include/uapi/asm/mtrr.h \

@@ -1358,6 +1358,12 @@ deps_mm/debug.o := \
     $(wildcard include/config/CGROUP_HUGETLB) \
     $(wildcard include/config/ARCH_ENABLE_HUGEPAGE_MIGRATION) \
   include/linux/userfaultfd_k.h \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
+  include/linux/swap.h \
+    $(wildcard include/config/THP_SWAP) \
+  include/linux/swapops.h \
   include/linux/page_owner.h \
   mm/internal.h \
     $(wildcard include/config/NO_PAGE_MAPCOUNT) \
@@ -1368,10 +1374,7 @@ deps_mm/debug.o := \
   include/linux/khugepaged.h \
   include/linux/mm_inline.h \
     $(wildcard include/config/LRU_GEN_ENABLED) \
-  include/linux/swap.h \
-    $(wildcard include/config/THP_SWAP) \
   include/linux/leafops.h \
-  include/linux/swapops.h \
   include/linux/pagewalk.h \
   include/linux/rmap.h \
     $(wildcard include/config/SLUB_RCU_DEBUG) \

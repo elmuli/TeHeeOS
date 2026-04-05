@@ -1215,6 +1215,9 @@ deps_mm/gup.o := \
     $(wildcard include/config/CGROUP_HUGETLB) \
     $(wildcard include/config/ARCH_ENABLE_HUGEPAGE_MIGRATION) \
   include/linux/userfaultfd_k.h \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
   include/linux/migrate.h \
   include/linux/mempolicy.h \
     $(wildcard include/config/TMPFS) \

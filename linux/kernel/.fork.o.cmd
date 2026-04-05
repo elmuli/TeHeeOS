@@ -1349,6 +1349,9 @@ deps_kernel/fork.o := \
   include/linux/hugetlb.h \
     $(wildcard include/config/CGROUP_HUGETLB) \
     $(wildcard include/config/ARCH_ENABLE_HUGEPAGE_MIGRATION) \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
   include/linux/seccomp.h \
     $(wildcard include/config/HAVE_ARCH_SECCOMP_FILTER) \
     $(wildcard include/config/SECCOMP_FILTER) \

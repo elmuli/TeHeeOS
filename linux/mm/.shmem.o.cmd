@@ -1306,9 +1306,149 @@ deps_mm/shmem.o := \
   include/linux/hugetlb.h \
     $(wildcard include/config/CGROUP_HUGETLB) \
     $(wildcard include/config/ARCH_ENABLE_HUGEPAGE_MIGRATION) \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
+  include/linux/swapops.h \
   include/linux/swapfile.h \
   include/linux/iversion.h \
   mm/swap.h \
+  include/linux/exportfs.h \
+  include/linux/posix_acl.h \
+  include/uapi/linux/posix_acl.h \
+  include/linux/posix_acl_xattr.h \
+  include/uapi/linux/posix_acl_xattr.h \
+  include/linux/mman.h \
+  include/uapi/linux/mman.h \
+  arch/x86/include/asm/mman.h \
+  arch/x86/include/uapi/asm/mman.h \
+  include/uapi/asm-generic/mman.h \
+  include/uapi/asm-generic/mman-common.h \
+  include/uapi/asm-generic/hugetlb_encode.h \
+  include/linux/backing-dev.h \
+  include/linux/falloc.h \
+  include/uapi/linux/falloc.h \
+  include/linux/splice.h \
+  include/linux/pipe_fs_i.h \
+  include/linux/leafops.h \
+  include/linux/namei.h \
+  include/linux/fs_struct.h \
+  include/linux/migrate.h \
+  include/uapi/linux/magic.h \
+  include/linux/syscalls.h \
+    $(wildcard include/config/ARCH_HAS_SYSCALL_WRAPPER) \
+    $(wildcard include/config/FTRACE_SYSCALLS) \
+    $(wildcard include/config/ODD_RT_SIGACTION) \
+    $(wildcard include/config/CLONE_BACKWARDS) \
+    $(wildcard include/config/CLONE_BACKWARDS3) \
+    $(wildcard include/config/ARCH_SPLIT_ARG64) \
+    $(wildcard include/config/OLD_SIGSUSPEND) \
+    $(wildcard include/config/OLD_SIGSUSPEND3) \
+    $(wildcard include/config/ADVISE_SYSCALLS) \
+  include/uapi/linux/aio_abi.h \
+  include/linux/sem.h \
+  include/uapi/linux/sem.h \
+  include/linux/ipc.h \
+  include/linux/rhashtable-types.h \
+  include/uapi/linux/ipc.h \
+  arch/x86/include/generated/uapi/asm/ipcbuf.h \
+  include/uapi/asm-generic/ipcbuf.h \
+  arch/x86/include/uapi/asm/sembuf.h \
+  include/trace/syscall.h \
+    $(wildcard include/config/HAVE_SYSCALL_TRACEPOINTS) \
+  include/linux/tracepoint.h \
+  include/linux/trace_events.h \
+    $(wildcard include/config/DYNAMIC_EVENTS) \
+    $(wildcard include/config/HIST_TRIGGERS) \
+    $(wildcard include/config/KPROBE_EVENTS) \
+    $(wildcard include/config/UPROBE_EVENTS) \
+  include/linux/ring_buffer.h \
+    $(wildcard include/config/RING_BUFFER_ALLOW_SWAP) \
+    $(wildcard include/config/RING_BUFFER) \
+  include/linux/poll.h \
+  include/uapi/linux/poll.h \
+  arch/x86/include/generated/uapi/asm/poll.h \
+  include/uapi/asm-generic/poll.h \
+  include/uapi/linux/eventpoll.h \
+  include/uapi/linux/trace_mmap.h \
+  include/linux/trace_seq.h \
+  include/linux/seq_buf.h \
+  include/linux/perf_event.h \
+    $(wildcard include/config/HAVE_HW_BREAKPOINT) \
+    $(wildcard include/config/FUNCTION_TRACER) \
+    $(wildcard include/config/CGROUP_PERF) \
+    $(wildcard include/config/GUEST_PERF_EVENTS) \
+    $(wildcard include/config/CPU_SUP_INTEL) \
+  include/uapi/linux/perf_event.h \
+  include/uapi/linux/bpf_perf_event.h \
+  arch/x86/include/generated/uapi/asm/bpf_perf_event.h \
+  include/uapi/asm-generic/bpf_perf_event.h \
+  include/linux/ptrace.h \
+  include/linux/pid_namespace.h \
+    $(wildcard include/config/MEMFD_CREATE) \
+  include/uapi/linux/ptrace.h \
+  include/linux/seccomp.h \
+    $(wildcard include/config/HAVE_ARCH_SECCOMP_FILTER) \
+    $(wildcard include/config/SECCOMP_FILTER) \
+    $(wildcard include/config/CHECKPOINT_RESTORE) \
+    $(wildcard include/config/SECCOMP_CACHE_DEBUG) \
+  include/uapi/linux/seccomp.h \
+  arch/x86/include/asm/perf_event.h \
+    $(wildcard include/config/PERF_EVENTS_AMD_BRS) \
+  arch/x86/include/asm/stacktrace.h \
+  arch/x86/include/asm/cpu_entry_area.h \
+  arch/x86/include/asm/intel_ds.h \
+  arch/x86/include/asm/pgtable_areas.h \
+  arch/x86/include/asm/switch_to.h \
+  include/linux/sched/task_stack.h \
+  arch/x86/include/asm/hw_breakpoint.h \
+  arch/x86/include/uapi/asm/hw_breakpoint.h \
+  include/linux/kdebug.h \
+  arch/x86/include/asm/kdebug.h \
+  include/linux/ftrace.h \
+    $(wildcard include/config/HAVE_FUNCTION_GRAPH_FREGS) \
+    $(wildcard include/config/HAVE_DYNAMIC_FTRACE_WITH_ARGS) \
+    $(wildcard include/config/HAVE_FTRACE_REGS_HAVING_PT_REGS) \
+    $(wildcard include/config/HAVE_REGS_AND_STACK_ACCESS_API) \
+    $(wildcard include/config/DYNAMIC_FTRACE_WITH_REGS) \
+    $(wildcard include/config/DYNAMIC_FTRACE_WITH_ARGS) \
+    $(wildcard include/config/DYNAMIC_FTRACE_WITH_DIRECT_CALLS) \
+    $(wildcard include/config/STACK_TRACER) \
+    $(wildcard include/config/DYNAMIC_FTRACE_WITH_CALL_OPS) \
+    $(wildcard include/config/FUNCTION_GRAPH_RETVAL) \
+  include/linux/trace_recursion.h \
+    $(wildcard include/config/FTRACE_RECORD_RECURSION) \
+    $(wildcard include/config/FTRACE_VALIDATE_RCU_IS_WATCHING) \
+  include/linux/trace_clock.h \
+  arch/x86/include/asm/trace_clock.h \
+  arch/x86/include/asm/ftrace.h \
+    $(wildcard include/config/HAVE_FENTRY) \
+  include/linux/irq_work.h \
+    $(wildcard include/config/IRQ_WORK) \
+  arch/x86/include/asm/irq_work.h \
+  include/linux/jump_label_ratelimit.h \
+  include/linux/perf_regs.h \
+    $(wildcard include/config/HAVE_PERF_REGS) \
+  arch/x86/include/uapi/asm/perf_regs.h \
+  arch/x86/include/asm/syscall_wrapper.h \
+  include/uapi/linux/memfd.h \
+  include/linux/rmap.h \
+    $(wildcard include/config/SLUB_RCU_DEBUG) \
+    $(wildcard include/config/HAVE_GUP_FAST) \
+    $(wildcard include/config/PAGE_MAPCOUNT) \
+  include/linux/quotaops.h \
+  include/linux/rcupdate_wait.h \
+  mm/internal.h \
+    $(wildcard include/config/NO_PAGE_MAPCOUNT) \
+    $(wildcard include/config/DEBUG_MEMORY_INIT) \
+    $(wildcard include/config/PT_RECLAIM) \
+  include/linux/khugepaged.h \
+  include/linux/mm_inline.h \
+    $(wildcard include/config/LRU_GEN_ENABLED) \
+  include/linux/pagewalk.h \
+  include/linux/swap_cgroup.h \
+  mm/vma.h \
+    $(wildcard include/config/DEBUG_VM_MAPLE_TREE) \
 
 mm/shmem.o: $(deps_mm/shmem.o)
 

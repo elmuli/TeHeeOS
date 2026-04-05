@@ -1194,12 +1194,12 @@ deps_mm/vma_init.o := \
   include/linux/kthread.h \
   include/linux/cgroup_namespace.h \
   include/linux/userfaultfd_k.h \
-  include/linux/ksm.h \
   include/linux/pagemap.h \
-  include/linux/rmap.h \
-    $(wildcard include/config/SLUB_RCU_DEBUG) \
-    $(wildcard include/config/HAVE_GUP_FAST) \
-    $(wildcard include/config/PAGE_MAPCOUNT) \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
+  include/linux/swap.h \
+    $(wildcard include/config/THP_SWAP) \
   include/linux/memcontrol.h \
     $(wildcard include/config/MEMCG_NMI_SAFETY_REQUIRES_ATOMIC) \
   include/linux/page_counter.h \
@@ -1207,18 +1207,21 @@ deps_mm/vma_init.o := \
   include/linux/vmpressure.h \
   include/linux/eventfd.h \
   include/uapi/linux/eventfd.h \
-  include/linux/khugepaged.h \
-  include/linux/mempolicy.h \
-    $(wildcard include/config/TMPFS) \
   include/linux/node.h \
     $(wildcard include/config/HMEM_REPORTING) \
   include/uapi/linux/mempolicy.h \
+  include/linux/swapops.h \
+  include/linux/ksm.h \
+  include/linux/rmap.h \
+    $(wildcard include/config/SLUB_RCU_DEBUG) \
+    $(wildcard include/config/HAVE_GUP_FAST) \
+    $(wildcard include/config/PAGE_MAPCOUNT) \
+  include/linux/khugepaged.h \
+  include/linux/mempolicy.h \
+    $(wildcard include/config/TMPFS) \
   include/linux/mm_inline.h \
     $(wildcard include/config/LRU_GEN_ENABLED) \
-  include/linux/swap.h \
-    $(wildcard include/config/THP_SWAP) \
   include/linux/leafops.h \
-  include/linux/swapops.h \
   include/linux/mman.h \
   include/uapi/linux/mman.h \
   arch/x86/include/asm/mman.h \

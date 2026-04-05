@@ -1,6 +1,49 @@
 !<thin>
-//                                              38        `
+//                                              462       `
+aperture.o/
+screen_info_generic.o/
+screen_info_pci.o/
+cmdline.o/
+nomodeset.o/
+hdmi.o/
 console/dummycon.o/
 console/vgacon.o/
-/0              0           0     0     644     2936      `
-/20             0           0     0     644     24560     `
+fbdev/core/fb_notify.o/
+fbdev/core/fb_info.o/
+fbdev/core/fbmem.o/
+fbdev/core/fbcmap.o/
+fbdev/core/modedb.o/
+fbdev/core/fbcvt.o/
+fbdev/core/fb_cmdline.o/
+fbdev/core/fb_backlight.o/
+fbdev/core/fbmon.o/
+fbdev/core/fb_chrdev.o/
+fbdev/core/fb_procfs.o/
+fbdev/core/fbsysfs.o/
+fbdev/core/fbcon.o/
+fbdev/core/bitblit.o/
+fbdev/core/softcursor.o/
+
+/0              0           0     0     644     4712      `
+/12             0           0     0     644     3816      `
+/35             0           0     0     644     4280      `
+/54             0           0     0     644     3768      `
+/65             0           0     0     644     2640      `
+/78             0           0     0     644     23952     `
+/86             0           0     0     644     2936      `
+/106            0           0     0     644     24560     `
+/124            0           0     0     644     2656      `
+/148            0           0     0     644     2048      `
+/170            0           0     0     644     12896     `
+/190            0           0     0     644     6952      `
+/211            0           0     0     644     12000     `
+/232            0           0     0     644     3896      `
+/252            0           0     0     644     2088      `
+/277            0           0     0     644     968       `
+/304            0           0     0     644     2952      `
+/324            0           0     0     644     5840      `
+/348            0           0     0     644     2616      `
+/372            0           0     0     644     9576      `
+/394            0           0     0     644     38856     `
+/414            0           0     0     644     5280      `
+/436            0           0     0     644     1760      `

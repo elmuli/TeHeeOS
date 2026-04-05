@@ -1262,6 +1262,39 @@ deps_kernel/events/core.o := \
   include/linux/kthread.h \
   include/linux/cgroup_namespace.h \
   include/linux/userfaultfd_k.h \
+  include/linux/pagemap.h \
+  include/linux/highmem.h \
+  include/linux/cacheflush.h \
+  arch/x86/include/asm/cacheflush.h \
+  include/asm-generic/cacheflush.h \
+  include/linux/kmsan.h \
+  include/linux/dma-direction.h \
+  include/linux/highmem-internal.h \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
+  include/linux/swap.h \
+    $(wildcard include/config/THP_SWAP) \
+  include/linux/memcontrol.h \
+    $(wildcard include/config/MEMCG_NMI_SAFETY_REQUIRES_ATOMIC) \
+  include/linux/page_counter.h \
+    $(wildcard include/config/CGROUP_DMEM) \
+  include/linux/vmpressure.h \
+  include/linux/eventfd.h \
+  include/uapi/linux/eventfd.h \
+  include/linux/writeback.h \
+  include/linux/flex_proportions.h \
+  include/linux/backing-dev-defs.h \
+    $(wildcard include/config/DEBUG_FS) \
+  include/linux/blk_types.h \
+    $(wildcard include/config/FAIL_MAKE_REQUEST) \
+    $(wildcard include/config/BLK_CGROUP_IOCOST) \
+    $(wildcard include/config/BLK_INLINE_ENCRYPTION) \
+    $(wildcard include/config/BLK_DEV_INTEGRITY) \
+  include/linux/bvec.h \
+  include/linux/pagevec.h \
+  include/uapi/linux/mempolicy.h \
+  include/linux/swapops.h \
   include/linux/syscalls.h \
     $(wildcard include/config/ARCH_HAS_SYSCALL_WRAPPER) \
     $(wildcard include/config/FTRACE_SYSCALLS) \
@@ -1380,31 +1413,6 @@ deps_kernel/events/core.o := \
   include/linux/bsearch.h \
   include/linux/btf_ids.h \
   include/uapi/linux/btf.h \
-  include/linux/memcontrol.h \
-    $(wildcard include/config/MEMCG_NMI_SAFETY_REQUIRES_ATOMIC) \
-  include/linux/page_counter.h \
-    $(wildcard include/config/CGROUP_DMEM) \
-  include/linux/vmpressure.h \
-  include/linux/eventfd.h \
-  include/uapi/linux/eventfd.h \
-  include/linux/writeback.h \
-  include/linux/flex_proportions.h \
-  include/linux/backing-dev-defs.h \
-    $(wildcard include/config/DEBUG_FS) \
-  include/linux/blk_types.h \
-    $(wildcard include/config/FAIL_MAKE_REQUEST) \
-    $(wildcard include/config/BLK_CGROUP_IOCOST) \
-    $(wildcard include/config/BLK_INLINE_ENCRYPTION) \
-    $(wildcard include/config/BLK_DEV_INTEGRITY) \
-  include/linux/bvec.h \
-  include/linux/highmem.h \
-  include/linux/cacheflush.h \
-  arch/x86/include/asm/cacheflush.h \
-  include/asm-generic/cacheflush.h \
-  include/linux/kmsan.h \
-  include/linux/dma-direction.h \
-  include/linux/highmem-internal.h \
-  include/linux/pagevec.h \
   include/linux/cfi.h \
   arch/x86/include/asm/cfi.h \
     $(wildcard include/config/FINEIBT_BHI) \

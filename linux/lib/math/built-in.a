@@ -1,5 +1,5 @@
 !<thin>
-//                                              76        `
+//                                              88        `
 div64.o/
 gcd.o/
 lcm.o/
@@ -7,6 +7,7 @@ int_log.o/
 int_pow.o/
 int_sqrt.o/
 reciprocal_div.o/
+rational.o/
 
 /0              0           0     0     644     1512      `
 /9              0           0     0     644     1800      `
@@ -15,3 +16,4 @@ reciprocal_div.o/
 /34             0           0     0     644     1512      `
 /45             0           0     0     644     1536      `
 /57             0           0     0     644     1976      `
+/75             0           0     0     644     2064      `

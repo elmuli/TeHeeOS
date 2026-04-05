@@ -1100,23 +1100,29 @@ deps_mm/pagewalk.o := \
   include/linux/kthread.h \
   include/linux/cgroup_namespace.h \
   include/linux/userfaultfd_k.h \
-  include/linux/mmu_context.h \
-  arch/x86/include/asm/mmu_context.h \
-  include/linux/pkeys.h \
-  arch/x86/include/asm/pkeys.h \
-  include/trace/events/tlb.h \
-  include/linux/tracepoint.h \
-    $(wildcard include/config/HAVE_SYSCALL_TRACEPOINTS) \
-  include/linux/rcupdate_trace.h \
-    $(wildcard include/config/TASKS_TRACE_RCU_READ_MB) \
-  include/linux/static_call.h \
-  include/linux/cpu.h \
-    $(wildcard include/config/GENERIC_CPU_DEVICES) \
-    $(wildcard include/config/PM_SLEEP_SMP) \
-    $(wildcard include/config/PM_SLEEP_SMP_NONZERO_CPU) \
-    $(wildcard include/config/ARCH_HAS_CPU_FINALIZE_INIT) \
-  include/linux/node.h \
-    $(wildcard include/config/HMEM_REPORTING) \
+  include/linux/pagemap.h \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
+  include/linux/swap.h \
+    $(wildcard include/config/THP_SWAP) \
+  include/linux/memcontrol.h \
+    $(wildcard include/config/MEMCG_NMI_SAFETY_REQUIRES_ATOMIC) \
+  include/linux/page_counter.h \
+    $(wildcard include/config/CGROUP_DMEM) \
+  include/linux/vmpressure.h \
+  include/linux/eventfd.h \
+  include/uapi/linux/eventfd.h \
+  include/linux/writeback.h \
+  include/linux/flex_proportions.h \
+  include/linux/backing-dev-defs.h \
+    $(wildcard include/config/DEBUG_FS) \
+  include/linux/blk_types.h \
+    $(wildcard include/config/FAIL_MAKE_REQUEST) \
+    $(wildcard include/config/BLK_CGROUP_IOCOST) \
+    $(wildcard include/config/BLK_INLINE_ENCRYPTION) \
+    $(wildcard include/config/BLK_DEV_INTEGRITY) \
+  include/linux/bvec.h \
   include/linux/device.h \
     $(wildcard include/config/GENERIC_MSI_IRQ) \
     $(wildcard include/config/ENERGY_MODEL) \
@@ -1199,6 +1205,26 @@ deps_mm/pagewalk.o := \
     $(wildcard include/config/HAVE_MOD_ARCH_SPECIFIC) \
   arch/x86/include/asm/device.h \
   include/linux/pm_wakeup.h \
+  include/linux/pagevec.h \
+  include/linux/node.h \
+    $(wildcard include/config/HMEM_REPORTING) \
+  include/uapi/linux/mempolicy.h \
+  include/linux/swapops.h \
+  include/linux/mmu_context.h \
+  arch/x86/include/asm/mmu_context.h \
+  include/linux/pkeys.h \
+  arch/x86/include/asm/pkeys.h \
+  include/trace/events/tlb.h \
+  include/linux/tracepoint.h \
+    $(wildcard include/config/HAVE_SYSCALL_TRACEPOINTS) \
+  include/linux/rcupdate_trace.h \
+    $(wildcard include/config/TASKS_TRACE_RCU_READ_MB) \
+  include/linux/static_call.h \
+  include/linux/cpu.h \
+    $(wildcard include/config/GENERIC_CPU_DEVICES) \
+    $(wildcard include/config/PM_SLEEP_SMP) \
+    $(wildcard include/config/PM_SLEEP_SMP_NONZERO_CPU) \
+    $(wildcard include/config/ARCH_HAS_CPU_FINALIZE_INIT) \
   include/linux/cpuhotplug.h \
     $(wildcard include/config/HOTPLUG_CORE_SYNC_DEAD) \
   include/linux/cpu_smt.h \
@@ -1220,30 +1246,7 @@ deps_mm/pagewalk.o := \
   arch/x86/include/asm/intel_ds.h \
   arch/x86/include/asm/pgtable_areas.h \
   include/asm-generic/mmu_context.h \
-  include/linux/swap.h \
-    $(wildcard include/config/THP_SWAP) \
-  include/linux/memcontrol.h \
-    $(wildcard include/config/MEMCG_NMI_SAFETY_REQUIRES_ATOMIC) \
-  include/linux/page_counter.h \
-    $(wildcard include/config/CGROUP_DMEM) \
-  include/linux/vmpressure.h \
-  include/linux/eventfd.h \
-  include/uapi/linux/eventfd.h \
-  include/linux/writeback.h \
-  include/linux/flex_proportions.h \
-  include/linux/backing-dev-defs.h \
-    $(wildcard include/config/DEBUG_FS) \
-  include/linux/blk_types.h \
-    $(wildcard include/config/FAIL_MAKE_REQUEST) \
-    $(wildcard include/config/BLK_CGROUP_IOCOST) \
-    $(wildcard include/config/BLK_INLINE_ENCRYPTION) \
-    $(wildcard include/config/BLK_DEV_INTEGRITY) \
-  include/linux/bvec.h \
-  include/linux/pagevec.h \
-  include/linux/pagemap.h \
-  include/uapi/linux/mempolicy.h \
   include/linux/leafops.h \
-  include/linux/swapops.h \
   mm/internal.h \
     $(wildcard include/config/NO_PAGE_MAPCOUNT) \
     $(wildcard include/config/PAGE_MAPCOUNT) \

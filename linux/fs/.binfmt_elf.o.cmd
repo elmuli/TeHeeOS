@@ -1175,51 +1175,28 @@ deps_fs/binfmt_elf.o := \
   include/linux/cgroup_namespace.h \
   include/linux/userfaultfd_k.h \
   include/linux/pagemap.h \
-  include/linux/vmalloc.h \
-    $(wildcard include/config/HAVE_ARCH_HUGE_VMALLOC) \
-  arch/x86/include/asm/vmalloc.h \
-  arch/x86/include/asm/pgtable_areas.h \
-  include/linux/security.h \
-    $(wildcard include/config/SECURITY_NETWORK) \
-    $(wildcard include/config/SECURITY_INFINIBAND) \
-    $(wildcard include/config/SECURITY_NETWORK_XFRM) \
-    $(wildcard include/config/SECURITY_PATH) \
-    $(wildcard include/config/SECURITYFS) \
-  include/linux/kernel_read_file.h \
-  include/linux/sockptr.h \
-  include/linux/bpf.h \
-    $(wildcard include/config/DEBUG_KERNEL) \
-    $(wildcard include/config/DYNAMIC_FTRACE_WITH_JMP) \
-    $(wildcard include/config/FINEIBT) \
-    $(wildcard include/config/BPF_JIT_ALWAYS_ON) \
-    $(wildcard include/config/INET) \
-  include/uapi/linux/bpf.h \
-    $(wildcard include/config/BPF_LIRC_MODE2) \
-    $(wildcard include/config/EFFICIENT_UNALIGNED_ACCESS) \
-    $(wildcard include/config/IP_ROUTE_CLASSID) \
-    $(wildcard include/config/BPF_KPROBE_OVERRIDE) \
-    $(wildcard include/config/XFRM) \
-    $(wildcard include/config/IPV6) \
-  include/uapi/linux/bpf_common.h \
-  include/uapi/linux/filter.h \
-  include/crypto/sha2.h \
-  include/linux/kallsyms.h \
-    $(wildcard include/config/KALLSYMS_ALL) \
-  include/linux/bpfptr.h \
-  include/linux/btf.h \
-  include/linux/bsearch.h \
-  include/linux/btf_ids.h \
-  include/uapi/linux/btf.h \
-  include/linux/rcupdate_trace.h \
-    $(wildcard include/config/TASKS_TRACE_RCU_READ_MB) \
-  include/linux/static_call.h \
-  include/linux/cpu.h \
-    $(wildcard include/config/GENERIC_CPU_DEVICES) \
-    $(wildcard include/config/PM_SLEEP_SMP) \
-    $(wildcard include/config/PM_SLEEP_SMP_NONZERO_CPU) \
-    $(wildcard include/config/ARCH_HAS_CPU_FINALIZE_INIT) \
-  include/linux/node.h \
-    $(wildcard include/config/HMEM_REPORTING) \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
+  include/linux/swap.h \
+    $(wildcard include/config/THP_SWAP) \
+  include/linux/memcontrol.h \
+    $(wildcard include/config/MEMCG_NMI_SAFETY_REQUIRES_ATOMIC) \
+  include/linux/page_counter.h \
+    $(wildcard include/config/CGROUP_DMEM) \
+  include/linux/vmpressure.h \
+  include/linux/eventfd.h \
+  include/uapi/linux/eventfd.h \
+  include/linux/writeback.h \
+  include/linux/flex_proportions.h \
+  include/linux/backing-dev-defs.h \
+    $(wildcard include/config/DEBUG_FS) \
+  include/linux/blk_types.h \
+    $(wildcard include/config/FAIL_MAKE_REQUEST) \
+    $(wildcard include/config/BLK_CGROUP_IOCOST) \
+    $(wildcard include/config/BLK_INLINE_ENCRYPTION) \
+    $(wildcard include/config/BLK_DEV_INTEGRITY) \
+  include/linux/bvec.h \
   include/linux/device.h \
     $(wildcard include/config/GENERIC_MSI_IRQ) \
     $(wildcard include/config/ENERGY_MODEL) \
@@ -1263,6 +1240,54 @@ deps_fs/binfmt_elf.o := \
   include/linux/device/driver.h \
   arch/x86/include/asm/device.h \
   include/linux/pm_wakeup.h \
+  include/linux/pagevec.h \
+  include/linux/node.h \
+    $(wildcard include/config/HMEM_REPORTING) \
+  include/uapi/linux/mempolicy.h \
+  include/linux/swapops.h \
+  include/linux/vmalloc.h \
+    $(wildcard include/config/HAVE_ARCH_HUGE_VMALLOC) \
+  arch/x86/include/asm/vmalloc.h \
+  arch/x86/include/asm/pgtable_areas.h \
+  include/linux/security.h \
+    $(wildcard include/config/SECURITY_NETWORK) \
+    $(wildcard include/config/SECURITY_INFINIBAND) \
+    $(wildcard include/config/SECURITY_NETWORK_XFRM) \
+    $(wildcard include/config/SECURITY_PATH) \
+    $(wildcard include/config/SECURITYFS) \
+  include/linux/kernel_read_file.h \
+  include/linux/sockptr.h \
+  include/linux/bpf.h \
+    $(wildcard include/config/DEBUG_KERNEL) \
+    $(wildcard include/config/DYNAMIC_FTRACE_WITH_JMP) \
+    $(wildcard include/config/FINEIBT) \
+    $(wildcard include/config/BPF_JIT_ALWAYS_ON) \
+    $(wildcard include/config/INET) \
+  include/uapi/linux/bpf.h \
+    $(wildcard include/config/BPF_LIRC_MODE2) \
+    $(wildcard include/config/EFFICIENT_UNALIGNED_ACCESS) \
+    $(wildcard include/config/IP_ROUTE_CLASSID) \
+    $(wildcard include/config/BPF_KPROBE_OVERRIDE) \
+    $(wildcard include/config/XFRM) \
+    $(wildcard include/config/IPV6) \
+  include/uapi/linux/bpf_common.h \
+  include/uapi/linux/filter.h \
+  include/crypto/sha2.h \
+  include/linux/kallsyms.h \
+    $(wildcard include/config/KALLSYMS_ALL) \
+  include/linux/bpfptr.h \
+  include/linux/btf.h \
+  include/linux/bsearch.h \
+  include/linux/btf_ids.h \
+  include/uapi/linux/btf.h \
+  include/linux/rcupdate_trace.h \
+    $(wildcard include/config/TASKS_TRACE_RCU_READ_MB) \
+  include/linux/static_call.h \
+  include/linux/cpu.h \
+    $(wildcard include/config/GENERIC_CPU_DEVICES) \
+    $(wildcard include/config/PM_SLEEP_SMP) \
+    $(wildcard include/config/PM_SLEEP_SMP_NONZERO_CPU) \
+    $(wildcard include/config/ARCH_HAS_CPU_FINALIZE_INIT) \
   include/linux/cpuhotplug.h \
     $(wildcard include/config/HOTPLUG_CORE_SYNC_DEAD) \
   include/linux/cpu_smt.h \
@@ -1270,24 +1295,6 @@ deps_fs/binfmt_elf.o := \
   arch/x86/include/asm/static_call.h \
   arch/x86/include/asm/text-patching.h \
     $(wildcard include/config/UML_X86) \
-  include/linux/memcontrol.h \
-    $(wildcard include/config/MEMCG_NMI_SAFETY_REQUIRES_ATOMIC) \
-  include/linux/page_counter.h \
-    $(wildcard include/config/CGROUP_DMEM) \
-  include/linux/vmpressure.h \
-  include/linux/eventfd.h \
-  include/uapi/linux/eventfd.h \
-  include/linux/writeback.h \
-  include/linux/flex_proportions.h \
-  include/linux/backing-dev-defs.h \
-    $(wildcard include/config/DEBUG_FS) \
-  include/linux/blk_types.h \
-    $(wildcard include/config/FAIL_MAKE_REQUEST) \
-    $(wildcard include/config/BLK_CGROUP_IOCOST) \
-    $(wildcard include/config/BLK_INLINE_ENCRYPTION) \
-    $(wildcard include/config/BLK_DEV_INTEGRITY) \
-  include/linux/bvec.h \
-  include/linux/pagevec.h \
   include/linux/cfi.h \
   arch/x86/include/asm/cfi.h \
     $(wildcard include/config/FINEIBT_BHI) \

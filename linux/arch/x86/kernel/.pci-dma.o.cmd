@@ -1322,6 +1322,7 @@ deps_arch/x86/kernel/pci-dma.o := \
   include/uapi/linux/pci.h \
   include/uapi/linux/pci_regs.h \
   include/linux/pci_ids.h \
+  include/linux/dmapool.h \
   arch/x86/include/asm/pci.h \
     $(wildcard include/config/VMD) \
   arch/x86/include/asm/memtype.h \

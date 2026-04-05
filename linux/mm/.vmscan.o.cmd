@@ -1276,6 +1276,9 @@ deps_mm/vmscan.o := \
   include/linux/hugetlb.h \
     $(wildcard include/config/CGROUP_HUGETLB) \
     $(wildcard include/config/ARCH_ENABLE_HUGEPAGE_MIGRATION) \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
   include/linux/delayacct.h \
   include/linux/memory-tiers.h \
   include/linux/oom.h \

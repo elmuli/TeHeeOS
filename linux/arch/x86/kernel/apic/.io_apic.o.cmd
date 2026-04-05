@@ -1204,8 +1204,8 @@ deps_arch/x86/kernel/apic/io_apic.o := \
   include/uapi/linux/pci.h \
   include/uapi/linux/pci_regs.h \
   include/linux/pci_ids.h \
-  arch/x86/include/asm/pci.h \
-    $(wildcard include/config/VMD) \
+  include/linux/dmapool.h \
+    $(wildcard include/config/HAS_DMA) \
   include/linux/scatterlist.h \
     $(wildcard include/config/NEED_SG_DMA_LENGTH) \
     $(wildcard include/config/NEED_SG_DMA_FLAGS) \
@@ -1213,10 +1213,11 @@ deps_arch/x86/kernel/apic/io_apic.o := \
     $(wildcard include/config/SGL_ALLOC) \
     $(wildcard include/config/ARCH_NO_SG_CHAIN) \
     $(wildcard include/config/SG_POOL) \
+  arch/x86/include/asm/pci.h \
+    $(wildcard include/config/VMD) \
   arch/x86/include/asm/memtype.h \
   include/linux/dma-mapping.h \
     $(wildcard include/config/DMA_API_DEBUG) \
-    $(wildcard include/config/HAS_DMA) \
     $(wildcard include/config/NEED_DMA_MAP_STATE) \
   include/linux/dma-direction.h \
   include/linux/mc146818rtc.h \

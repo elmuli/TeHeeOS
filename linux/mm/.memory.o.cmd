@@ -1211,6 +1211,9 @@ deps_mm/memory.o := \
   include/linux/hugetlb.h \
     $(wildcard include/config/CGROUP_HUGETLB) \
     $(wildcard include/config/ARCH_ENABLE_HUGEPAGE_MIGRATION) \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
   include/linux/mman.h \
   include/uapi/linux/mman.h \
   arch/x86/include/asm/mman.h \

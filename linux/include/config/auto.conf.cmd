@@ -1712,7 +1712,7 @@ ifneq "$(RUSTC)" "rustc"
 $(autoconfig): FORCE
 endif
 
-ifneq "$(CC_VERSION_TEXT)" "gcc (GCC) 15.2.1 20251112"
+ifneq "$(CC_VERSION_TEXT)" "gcc (GCC) 15.2.1 20260209"
 $(autoconfig): FORCE
 endif
 

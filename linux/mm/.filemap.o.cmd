@@ -1402,6 +1402,9 @@ deps_mm/filemap.o := \
     $(wildcard include/config/CGROUP_HUGETLB) \
     $(wildcard include/config/ARCH_ENABLE_HUGEPAGE_MIGRATION) \
   include/linux/userfaultfd_k.h \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
   include/linux/shmem_fs.h \
     $(wildcard include/config/TMPFS_QUOTA) \
   include/linux/mempolicy.h \

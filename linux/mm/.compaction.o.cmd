@@ -1217,11 +1217,14 @@ deps_mm/compaction.o := \
     $(wildcard include/config/CGROUP_HUGETLB) \
     $(wildcard include/config/ARCH_ENABLE_HUGEPAGE_MIGRATION) \
   include/linux/userfaultfd_k.h \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
+  include/linux/swapops.h \
   include/linux/compaction.h \
   include/linux/mm_inline.h \
     $(wildcard include/config/LRU_GEN_ENABLED) \
   include/linux/leafops.h \
-  include/linux/swapops.h \
   include/linux/backing-dev.h \
   include/linux/page-isolation.h \
   include/linux/freezer.h \

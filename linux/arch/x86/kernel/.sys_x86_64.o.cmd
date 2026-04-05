@@ -1402,6 +1402,14 @@ deps_arch/x86/kernel/sys_x86_64.o := \
     $(wildcard include/config/ARCH_ENABLE_HUGEPAGE_MIGRATION) \
   include/linux/hugetlb_inline.h \
   include/linux/userfaultfd_k.h \
+  include/linux/pagemap.h \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
+  include/linux/swap.h \
+    $(wildcard include/config/THP_SWAP) \
+  include/uapi/linux/mempolicy.h \
+  include/linux/swapops.h \
 
 arch/x86/kernel/sys_x86_64.o: $(deps_arch/x86/kernel/sys_x86_64.o)
 

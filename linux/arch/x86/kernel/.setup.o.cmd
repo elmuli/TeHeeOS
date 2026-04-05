@@ -1373,6 +1373,38 @@ deps_arch/x86/kernel/setup.o := \
   include/linux/kthread.h \
   include/linux/cgroup_namespace.h \
   include/linux/userfaultfd_k.h \
+  include/linux/pagemap.h \
+  include/linux/highmem.h \
+  include/linux/cacheflush.h \
+  arch/x86/include/asm/cacheflush.h \
+  include/asm-generic/cacheflush.h \
+  include/linux/kmsan.h \
+  include/linux/highmem-internal.h \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
+  include/linux/swap.h \
+    $(wildcard include/config/THP_SWAP) \
+  include/linux/memcontrol.h \
+    $(wildcard include/config/MEMCG_NMI_SAFETY_REQUIRES_ATOMIC) \
+  include/linux/page_counter.h \
+    $(wildcard include/config/CGROUP_DMEM) \
+  include/linux/vmpressure.h \
+  include/linux/eventfd.h \
+  include/uapi/linux/eventfd.h \
+  include/linux/writeback.h \
+  include/linux/flex_proportions.h \
+  include/linux/backing-dev-defs.h \
+    $(wildcard include/config/DEBUG_FS) \
+  include/linux/blk_types.h \
+    $(wildcard include/config/FAIL_MAKE_REQUEST) \
+    $(wildcard include/config/BLK_CGROUP_IOCOST) \
+    $(wildcard include/config/BLK_INLINE_ENCRYPTION) \
+    $(wildcard include/config/BLK_DEV_INTEGRITY) \
+  include/linux/bvec.h \
+  include/linux/pagevec.h \
+  include/uapi/linux/mempolicy.h \
+  include/linux/swapops.h \
   include/linux/ima.h \
     $(wildcard include/config/IMA_APPRAISE_BOOTPARAM) \
     $(wildcard include/config/IMA_SECURE_AND_OR_TRUSTED_BOOT) \
@@ -1416,30 +1448,6 @@ deps_arch/x86/kernel/setup.o := \
   arch/x86/include/asm/static_call.h \
   arch/x86/include/asm/text-patching.h \
     $(wildcard include/config/UML_X86) \
-  include/linux/memcontrol.h \
-    $(wildcard include/config/MEMCG_NMI_SAFETY_REQUIRES_ATOMIC) \
-  include/linux/page_counter.h \
-    $(wildcard include/config/CGROUP_DMEM) \
-  include/linux/vmpressure.h \
-  include/linux/eventfd.h \
-  include/uapi/linux/eventfd.h \
-  include/linux/writeback.h \
-  include/linux/flex_proportions.h \
-  include/linux/backing-dev-defs.h \
-    $(wildcard include/config/DEBUG_FS) \
-  include/linux/blk_types.h \
-    $(wildcard include/config/FAIL_MAKE_REQUEST) \
-    $(wildcard include/config/BLK_CGROUP_IOCOST) \
-    $(wildcard include/config/BLK_INLINE_ENCRYPTION) \
-    $(wildcard include/config/BLK_DEV_INTEGRITY) \
-  include/linux/bvec.h \
-  include/linux/highmem.h \
-  include/linux/cacheflush.h \
-  arch/x86/include/asm/cacheflush.h \
-  include/asm-generic/cacheflush.h \
-  include/linux/kmsan.h \
-  include/linux/highmem-internal.h \
-  include/linux/pagevec.h \
   include/linux/cfi.h \
   arch/x86/include/asm/cfi.h \
     $(wildcard include/config/FINEIBT_BHI) \
@@ -1513,6 +1521,7 @@ deps_arch/x86/kernel/setup.o := \
   include/uapi/linux/pci.h \
   include/uapi/linux/pci_regs.h \
   include/linux/pci_ids.h \
+  include/linux/dmapool.h \
   arch/x86/include/asm/pci.h \
     $(wildcard include/config/VMD) \
   arch/x86/include/asm/memtype.h \
@@ -1560,10 +1569,6 @@ deps_arch/x86/kernel/setup.o := \
     $(wildcard include/config/MMU_GATHER_NO_RANGE) \
     $(wildcard include/config/MMU_GATHER_NO_FLUSH_CACHE) \
     $(wildcard include/config/MMU_GATHER_MERGE_VMAS) \
-  include/linux/swap.h \
-    $(wildcard include/config/THP_SWAP) \
-  include/linux/pagemap.h \
-  include/uapi/linux/mempolicy.h \
   arch/x86/include/asm/mmu_context.h \
   include/linux/pkeys.h \
   arch/x86/include/asm/pkeys.h \

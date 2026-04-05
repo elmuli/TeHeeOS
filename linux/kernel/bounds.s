@@ -1,7 +1,8 @@
 	.file	"bounds.c"
-# GNU C11 (GCC) version 15.2.1 20251112 (x86_64-pc-linux-gnu)
-#	compiled by GNU C version 15.2.1 20251112, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.27-GMP
+# GNU C11 (GCC) version 15.2.1 20260209 (x86_64-pc-linux-gnu)
+#	compiled by GNU C version 15.2.1 20260209, GMP version 6.3.0, MPFR version 4.2.2, MPC version 1.3.1, isl version isl-0.27-GMP
 
+# warning: MPC header version 1.3.1 differs from library version 1.4.0.
 # GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
 # options passed: -mno-sse -mno-mmx -mno-sse2 -mno-3dnow -mno-avx -mno-sse4a -m64 -mno-80387 -mno-fp-ret-in-387 -mpreferred-stack-boundary=3 -mskip-rax-setup -march=x86-64 -mtune=generic -mno-red-zone -mcmodel=kernel -Os -std=gnu11 -fshort-wchar -funsigned-char -fno-common -fno-PIE -fno-strict-aliasing -fcf-protection=branch -fno-jump-tables -falign-jumps=1 -falign-loops=1 -fno-asynchronous-unwind-tables -fno-delete-null-pointer-checks -fno-allow-store-data-races -fno-stack-protector -fomit-frame-pointer -ftrivial-auto-var-init=zero -fzero-init-padding-bits=all -fno-stack-clash-protection -fmin-function-alignment=16 -fstrict-flex-arrays=3 -fms-extensions -fno-strict-overflow -fstack-check=no -fconserve-stack -fno-builtin-wcslen
 	.text
@@ -42,7 +43,7 @@ main:
 	xorl	%eax, %eax	#
 	ret	
 	.size	main, .-main
-	.ident	"GCC: (GNU) 15.2.1 20251112"
+	.ident	"GCC: (GNU) 15.2.1 20260209"
 	.section	.note.GNU-stack,"",@progbits
 	.section	.note.gnu.property,"a"
 	.align 8

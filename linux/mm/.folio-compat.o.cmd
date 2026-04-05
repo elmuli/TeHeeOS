@@ -1187,10 +1187,11 @@ deps_mm/folio-compat.o := \
   include/linux/kthread.h \
   include/linux/cgroup_namespace.h \
   include/linux/userfaultfd_k.h \
-  include/linux/rmap.h \
-    $(wildcard include/config/SLUB_RCU_DEBUG) \
-    $(wildcard include/config/HAVE_GUP_FAST) \
-    $(wildcard include/config/PAGE_MAPCOUNT) \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
+  include/linux/swap.h \
+    $(wildcard include/config/THP_SWAP) \
   include/linux/memcontrol.h \
     $(wildcard include/config/MEMCG_NMI_SAFETY_REQUIRES_ATOMIC) \
   include/linux/page_counter.h \
@@ -1209,8 +1210,11 @@ deps_mm/folio-compat.o := \
     $(wildcard include/config/BLK_DEV_INTEGRITY) \
   include/linux/bvec.h \
   include/linux/pagevec.h \
-  include/linux/swap.h \
-    $(wildcard include/config/THP_SWAP) \
+  include/linux/swapops.h \
+  include/linux/rmap.h \
+    $(wildcard include/config/SLUB_RCU_DEBUG) \
+    $(wildcard include/config/HAVE_GUP_FAST) \
+    $(wildcard include/config/PAGE_MAPCOUNT) \
   mm/internal.h \
     $(wildcard include/config/NO_PAGE_MAPCOUNT) \
     $(wildcard include/config/DEBUG_MEMORY_INIT) \
@@ -1219,7 +1223,6 @@ deps_mm/folio-compat.o := \
   include/linux/mm_inline.h \
     $(wildcard include/config/LRU_GEN_ENABLED) \
   include/linux/leafops.h \
-  include/linux/swapops.h \
   include/linux/pagewalk.h \
   include/linux/swap_cgroup.h \
   mm/vma.h \

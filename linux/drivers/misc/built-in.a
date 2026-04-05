@@ -1,1 +1,24 @@
-!<arch>
+!<thin>
+//                                              160       `
+eeprom/eeprom_93cx6.o/
+mei/init.o/
+mei/hbm.o/
+mei/interrupt.o/
+mei/client.o/
+mei/main.o/
+mei/dma-ring.o/
+mei/bus.o/
+mei/bus-fixup.o/
+mei/pci-me.o/
+mei/hw-me.o/
+/0              0           0     0     644     5560      `
+/23             0           0     0     644     10320     `
+/35             0           0     0     644     14640     `
+/46             0           0     0     644     8048      `
+/63             0           0     0     644     20560     `
+/77             0           0     0     644     20824     `
+/89             0           0     0     644     2112      `
+/105            0           0     0     644     23016     `
+/116            0           0     0     644     7208      `
+/133            0           0     0     644     9784      `
+/147            0           0     0     644     17704     `

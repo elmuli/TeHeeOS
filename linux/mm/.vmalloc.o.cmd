@@ -1242,6 +1242,16 @@ deps_mm/vmalloc.o := \
     $(wildcard include/config/ARCH_ENABLE_HUGEPAGE_MIGRATION) \
   include/linux/hugetlb_inline.h \
   include/linux/userfaultfd_k.h \
+  include/linux/pagemap.h \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
+  include/linux/swap.h \
+    $(wildcard include/config/THP_SWAP) \
+  include/linux/node.h \
+    $(wildcard include/config/HMEM_REPORTING) \
+  include/uapi/linux/mempolicy.h \
+  include/linux/swapops.h \
   include/linux/page_owner.h \
   include/trace/events/vmalloc.h \
   include/linux/tracepoint.h \
@@ -1254,8 +1264,6 @@ deps_mm/vmalloc.o := \
     $(wildcard include/config/PM_SLEEP_SMP) \
     $(wildcard include/config/PM_SLEEP_SMP_NONZERO_CPU) \
     $(wildcard include/config/ARCH_HAS_CPU_FINALIZE_INIT) \
-  include/linux/node.h \
-    $(wildcard include/config/HMEM_REPORTING) \
   include/linux/cpuhotplug.h \
     $(wildcard include/config/HOTPLUG_CORE_SYNC_DEAD) \
   include/linux/cpu_smt.h \
@@ -1273,12 +1281,7 @@ deps_mm/vmalloc.o := \
   include/linux/khugepaged.h \
   include/linux/mm_inline.h \
     $(wildcard include/config/LRU_GEN_ENABLED) \
-  include/linux/swap.h \
-    $(wildcard include/config/THP_SWAP) \
-  include/linux/pagemap.h \
-  include/uapi/linux/mempolicy.h \
   include/linux/leafops.h \
-  include/linux/swapops.h \
   include/linux/pagewalk.h \
   include/linux/rmap.h \
     $(wildcard include/config/SLUB_RCU_DEBUG) \

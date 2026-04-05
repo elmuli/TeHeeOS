@@ -1227,6 +1227,9 @@ deps_mm/swap.o := \
   include/linux/hugetlb.h \
     $(wildcard include/config/CGROUP_HUGETLB) \
     $(wildcard include/config/ARCH_ENABLE_HUGEPAGE_MIGRATION) \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
   include/linux/page_idle.h \
   include/linux/buffer_head.h \
     $(wildcard include/config/BUFFER_HEAD) \

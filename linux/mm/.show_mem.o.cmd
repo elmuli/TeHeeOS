@@ -1241,6 +1241,10 @@ deps_mm/show_mem.o := \
   include/linux/kthread.h \
   include/linux/cgroup_namespace.h \
   include/linux/userfaultfd_k.h \
+  include/linux/pagemap.h \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
   include/linux/swap.h \
     $(wildcard include/config/THP_SWAP) \
   include/linux/memcontrol.h \
@@ -1255,8 +1259,8 @@ deps_mm/show_mem.o := \
   include/linux/backing-dev-defs.h \
     $(wildcard include/config/DEBUG_FS) \
   include/linux/pagevec.h \
-  include/linux/pagemap.h \
   include/uapi/linux/mempolicy.h \
+  include/linux/swapops.h \
   mm/internal.h \
     $(wildcard include/config/NO_PAGE_MAPCOUNT) \
     $(wildcard include/config/PAGE_MAPCOUNT) \
@@ -1267,7 +1271,6 @@ deps_mm/show_mem.o := \
   include/linux/mm_inline.h \
     $(wildcard include/config/LRU_GEN_ENABLED) \
   include/linux/leafops.h \
-  include/linux/swapops.h \
   include/linux/pagewalk.h \
   include/linux/rmap.h \
     $(wildcard include/config/SLUB_RCU_DEBUG) \

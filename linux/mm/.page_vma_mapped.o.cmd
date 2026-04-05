@@ -1203,13 +1203,16 @@ deps_mm/page_vma_mapped.o := \
     $(wildcard include/config/CGROUP_HUGETLB) \
     $(wildcard include/config/ARCH_ENABLE_HUGEPAGE_MIGRATION) \
   include/linux/userfaultfd_k.h \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
   include/linux/swap.h \
     $(wildcard include/config/THP_SWAP) \
   include/linux/node.h \
     $(wildcard include/config/HMEM_REPORTING) \
   include/uapi/linux/mempolicy.h \
-  include/linux/leafops.h \
   include/linux/swapops.h \
+  include/linux/leafops.h \
   mm/internal.h \
     $(wildcard include/config/NO_PAGE_MAPCOUNT) \
     $(wildcard include/config/DEBUG_MEMORY_INIT) \

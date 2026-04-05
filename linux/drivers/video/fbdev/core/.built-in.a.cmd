@@ -1,1 +1,1 @@
-savedcmd_drivers/video/fbdev/core/built-in.a := rm -f drivers/video/fbdev/core/built-in.a;  ar cDPrST drivers/video/fbdev/core/built-in.a
+savedcmd_drivers/video/fbdev/core/built-in.a := rm -f drivers/video/fbdev/core/built-in.a;  printf "drivers/video/fbdev/core/%s " fb_notify.o fb_info.o fbmem.o fbcmap.o modedb.o fbcvt.o fb_cmdline.o fb_backlight.o fbmon.o fb_chrdev.o fb_procfs.o fbsysfs.o fbcon.o bitblit.o softcursor.o | xargs ar cDPrST drivers/video/fbdev/core/built-in.a

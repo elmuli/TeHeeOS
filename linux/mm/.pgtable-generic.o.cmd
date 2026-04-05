@@ -1099,6 +1099,9 @@ deps_mm/pgtable-generic.o := \
   include/linux/kthread.h \
   include/linux/cgroup_namespace.h \
   include/linux/userfaultfd_k.h \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
   include/linux/swap.h \
     $(wildcard include/config/THP_SWAP) \
   include/linux/memcontrol.h \

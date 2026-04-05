@@ -1436,6 +1436,10 @@ deps_security/commoncap.o := \
     $(wildcard include/config/CGROUP_HUGETLB) \
     $(wildcard include/config/ARCH_ENABLE_HUGEPAGE_MIGRATION) \
   include/linux/userfaultfd_k.h \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
+  include/linux/swapops.h \
   include/uapi/linux/prctl.h \
   include/linux/securebits.h \
   include/uapi/linux/securebits.h \

@@ -1287,6 +1287,9 @@ deps_mm/util.o := \
     $(wildcard include/config/CGROUP_HUGETLB) \
     $(wildcard include/config/ARCH_ENABLE_HUGEPAGE_MIGRATION) \
   include/linux/userfaultfd_k.h \
+  arch/x86/include/asm/hugetlb.h \
+  include/asm-generic/hugetlb.h \
+    $(wildcard include/config/ARCH_HAS_GIGANTIC_PAGE) \
   include/linux/vmalloc.h \
     $(wildcard include/config/HAVE_ARCH_HUGE_VMALLOC) \
   arch/x86/include/asm/vmalloc.h \
