@@ -14,6 +14,8 @@ used since it contains many issues and has hardly anyting usable.
     (program to print files on the shell)
 - pseudo env variables (/bin, /usr/bin)
     now can call utilities from anywhere
+- basic linux rootfs mounts
+- glibc
 
 ## Current planned features? maybe? who knows
 
