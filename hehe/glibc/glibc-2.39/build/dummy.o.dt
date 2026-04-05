@@ -1,0 +1,11 @@
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/dummy.o: \
+ /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/dummy.c \
+ /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/config.h \
+ ../sysdeps/generic/libc-symver.h ../sysdeps/generic/symbol-hacks.h
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/libc-modules.h:
+../include/libc-symbols.h:
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/config.h:
+../sysdeps/generic/libc-symver.h:
+../sysdeps/generic/symbol-hacks.h:

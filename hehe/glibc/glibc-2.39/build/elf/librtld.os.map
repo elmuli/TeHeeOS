@@ -1,0 +1,2017 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-check_fds.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errno.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (rtld_errno)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-closedir.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__closedir)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-rewinddir.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__rewinddir)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__readdir64)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fdopendir.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__fdopendir)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getdents64.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os) (__getdents64)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (_dl_addr_inside_object)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__profil)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-prof-freq.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__profile_frequency)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-access.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__access)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstat64.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__GI___fstat64)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstatat64.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__GI___fstatat64)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lseek64.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__lseek)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lstat64.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__GI___lstat64)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-openat64.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__openat64)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stat64.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__GI___stat64)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__GI___close_nocancel)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__GI___fcntl64_nocancel)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__GI___open64_nocancel)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__GI___pread64_nocancel)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__GI___read_nocancel)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__GI___write_nocancel)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__libc_scratch_buffer_set_array_size)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mmap64.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__mmap)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mprotect.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__mprotect)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-munmap.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__munmap)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setvmaname.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__set_vma_name)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__lll_lock_wait_private)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-_exit.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__GI__exit)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getpid.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__getpid)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-uname.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__uname)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-environ.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__environ)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setjmp.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__sigsetjmp)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-__longjmp.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__longjmp)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-sigaction.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os) (__sigaction)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-sigaction.os) (__libc_sigaction)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memchr.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (memchr)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memcmp.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (memcmp)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memmove.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__mempcpy)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memset.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (memset)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stpcpy.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__stpcpy)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchr.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (strchr)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcmp.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (strcmp)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcspn.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (strcspn)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strdup.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (__strdup)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (strerrorname_np)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strlen.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (strlen)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strncmp.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (strncmp)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strnlen.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (strnlen)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchrnul.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcspn.os) (__strchrnul)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setitimer.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os) (__setitimer)
+/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os)
+                              /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strerrorname_np.os) (__get_errname)
+
+Merging object attributes
+
+
+Merging program properties
+
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-check_fds.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-check_fds.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errno.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errno.os) (0x0)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-closedir.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-closedir.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-rewinddir.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-rewinddir.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fdopendir.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fdopendir.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getdents64.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getdents64.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-dl-addr-obj.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-dl-addr-obj.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-prof-freq.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-prof-freq.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-access.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-access.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstat64.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstat64.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstatat64.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstatat64.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lseek64.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lseek64.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lstat64.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lstat64.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-openat64.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-openat64.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stat64.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stat64.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-close_nocancel.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-close_nocancel.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-open64_nocancel.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-open64_nocancel.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-pread64_nocancel.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-pread64_nocancel.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-read_nocancel.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-read_nocancel.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-write_nocancel.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-write_nocancel.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mmap64.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mmap64.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mprotect.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mprotect.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-munmap.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-munmap.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setvmaname.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setvmaname.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-_exit.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-_exit.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getpid.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getpid.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-uname.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-uname.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-environ.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-environ.os) (0x0)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setjmp.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setjmp.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-__longjmp.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-__longjmp.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-sigaction.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-sigaction.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-libc_sigaction.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-libc_sigaction.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memchr.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memchr.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memcmp.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memcmp.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memmove.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memmove.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memset.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memset.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stpcpy.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stpcpy.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchr.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchr.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcmp.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcmp.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcspn.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcspn.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strdup.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strdup.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strerrorname_np.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strerrorname_np.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strlen.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strlen.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strncmp.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strncmp.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strnlen.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strnlen.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchrnul.os) (0x9)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchrnul.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setitimer.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setitimer.os) (0x1)
+Updated property 0xc0010001 (0x2f9) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0x2f9) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os) (0x1)
+Updated property 0xc0010002 (0xd) to merge /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os (0xd) and /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os) (0x1)
+
+Discarded input sections
+
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errno.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-closedir.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-access.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-openat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stat64.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-munmap.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-_exit.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getpid.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-uname.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-environ.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memchr.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memmove.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memset.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchr.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strdup.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strlen.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+START GROUP
+LOAD /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+LOAD /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a
+LOAD /usr/lib/gcc/x86_64-pc-linux-gnu/15.2.1/libgcc.a
+END GROUP
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.interp
+ *(.interp)
+
+.note.gnu.property
+                0x0000000000000000       0x30
+ .note.gnu.property
+                0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.tls
+ *(.rela.tls)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ldata
+ *(.rela.ldata)
+
+.rela.lbss
+ *(.rela.lbss)
+
+.rela.lrodata
+ *(.rela.lrodata)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.relr.dyn
+ *(.relr.dyn)
+
+.init
+ *(SORT_NONE(.init))
+
+.plt
+ *(.plt)
+
+.plt.got
+ *(.plt.got)
+
+.plt.sec
+ *(.plt.sec)
+
+.text           0x0000000000000000    0x25653
+ *(.text .stub)
+ .text          0x0000000000000000    0x202ec /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+                0x0000000000000000                _dl_call_libc_early_init
+                0x0000000000000090                _dl_call_fini
+                0x00000000000001e0                _dl_signal_exception
+                0x00000000000001e0                __GI__dl_signal_exception
+                0x0000000000000240                __GI__dl_signal_error
+                0x0000000000000240                _dl_signal_error
+                0x00000000000002b0                _dl_signal_cexception
+                0x0000000000000340                _dl_signal_cerror
+                0x00000000000003d0                _dl_receive_error
+                0x0000000000000460                _dl_catch_exception
+                0x0000000000000460                __GI__dl_catch_exception
+                0x00000000000005e0                _dl_catch_error
+                0x0000000000000770                _dl_close_worker
+                0x00000000000015d0                _dl_close
+                0x0000000000001640                _dl_debug_state
+                0x0000000000001640                __GI__dl_debug_state
+                0x0000000000001650                _dl_debug_update
+                0x00000000000016a0                _dl_debug_initialize
+                0x0000000000001880                _dl_map_object_deps
+                0x0000000000002880                _dl_error_free
+                0x00000000000028a0                _dl_exception_create
+                0x00000000000028a0                __GI__dl_exception_create
+                0x0000000000002980                __GI__dl_exception_create_format
+                0x0000000000002980                _dl_exception_create_format
+                0x0000000000002df0                _dl_exception_free
+                0x0000000000002df0                __GI__dl_exception_free
+                0x0000000000002e10                _dl_make_stacks_executable
+                0x0000000000002f80                __GI___nptl_change_stack_perm
+                0x0000000000002f80                __nptl_change_stack_perm
+                0x0000000000003220                __GI__dl_find_object
+                0x0000000000003220                _dl_find_object
+                0x0000000000003590                _dlfo_sort_mappings
+                0x0000000000003650                _dl_find_object_init
+                0x0000000000003810                _dl_find_object_update
+                0x0000000000003d80                _dl_find_object_dlclose
+                0x0000000000003e80                _dl_find_object_freeres
+                0x0000000000003ee0                _dl_fini
+                0x00000000000042b0                _dl_init
+                0x00000000000051a0                _dl_dst_count
+                0x0000000000005230                _dl_dst_substitute
+                0x0000000000005a40                _dl_init_paths
+                0x0000000000005e20                _dl_process_pt_gnu_property
+                0x0000000000007810                _dl_map_object
+                0x0000000000008300                _dl_rtld_di_serinfo
+                0x0000000000009320                _dl_lookup_symbol_x
+                0x0000000000009f90                _dl_lookup_direct
+                0x000000000000a130                __minimal_malloc
+                0x000000000000a270                __minimal_calloc
+                0x000000000000a2b0                __minimal_free
+                0x000000000000a2f0                __minimal_realloc
+                0x000000000000a380                _dl_sysdep_read_whole_file
+                0x000000000000a430                _dl_name_match_p
+                0x000000000000a490                _dl_higher_prime_number
+                0x000000000000a500                _dl_strtoul
+                0x000000000000a6c0                _dl_add_to_namespace_list
+                0x000000000000a760                _dl_new_object
+                0x000000000000af90                __GI__dl_find_dso_for_object
+                0x000000000000af90                _dl_find_dso_for_object
+                0x000000000000b050                _dl_open
+                0x000000000000b340                _dl_show_scope
+                0x000000000000bfe0                _dl_get_origin
+                0x000000000000c840                _dl_debug_printf
+                0x000000000000c8f0                _dl_debug_printf_c
+                0x000000000000c9a0                _dl_dprintf
+                0x000000000000ca40                _dl_printf
+                0x000000000000cae0                _dl_error_printf
+                0x000000000000cb80                _dl_fatal_printf
+                0x000000000000cb80                __GI__dl_fatal_printf
+                0x000000000000cc40                _dl_try_allocate_static_tls
+                0x000000000000cd70                _dl_allocate_static_tls
+                0x000000000000cda0                _dl_protect_relro
+                0x000000000000ce10                _dl_reloc_bad_type
+                0x000000000000cee0                _dl_relocate_object
+                0x000000000000f830                _dl_fixup
+                0x000000000000fb00                _dl_profile_fixup
+                0x000000000000fe50                _dl_scope_free
+                0x000000000000ff20                _dl_setup_hash
+                0x0000000000010110                _dl_sort_maps_init
+                0x0000000000010140                _dl_sort_maps
+                0x00000000000105d0                __thread_gscope_wait
+                0x0000000000010a80                _dl_tls_static_surplus_init
+                0x0000000000010b10                _dl_assign_tls_modid
+                0x0000000000010c40                _dl_count_modids
+                0x0000000000010cb0                _dl_determine_tlsoffset
+                0x0000000000010e70                _dl_get_tls_static_info
+                0x0000000000010e90                _dl_allocate_tls_storage
+                0x0000000000010f50                __GI__dl_allocate_tls_init
+                0x0000000000010f50                _dl_allocate_tls_init
+                0x00000000000111e0                __GI__dl_allocate_tls
+                0x00000000000111e0                _dl_allocate_tls
+                0x0000000000011220                _dl_deallocate_tls
+                0x0000000000011220                __GI__dl_deallocate_tls
+                0x00000000000112a0                _dl_update_slotinfo
+                0x00000000000114a0                __GI___tls_get_addr
+                0x00000000000114a0                ___tls_get_addr
+                0x00000000000114f0                _dl_tls_get_addr_soft
+                0x0000000000011570                _dl_add_to_slotinfo
+                0x00000000000116c0                _dl_init_static_tls
+                0x00000000000117f0                __tls_get_addr_slow
+                0x0000000000011830                __tls_pre_init_tp
+                0x0000000000011880                __tls_init_tp
+                0x00000000000119c0                _dl_runtime_profile_sse
+                0x0000000000011b50                _dl_runtime_resolve_fxsave
+                0x0000000000011bd0                _dl_runtime_resolve_xsave
+                0x0000000000011ca0                _dl_runtime_resolve_xsavec
+                0x0000000000012120                __tunable_is_initialized
+                0x0000000000012120                __GI___tunable_is_initialized
+                0x0000000000012140                __GI___tunable_set_val
+                0x0000000000012160                __GI___tunables_init
+                0x0000000000012300                __GI___tunables_print
+                0x0000000000012400                __tunable_get_default
+                0x0000000000012400                __GI___tunable_get_default
+                0x0000000000012450                __tunable_get_val
+                0x0000000000012450                __GI___tunable_get_val
+                0x00000000000124c0                _dl_check_map_versions
+                0x0000000000012df0                _dl_check_all_versions
+                0x0000000000012e70                _dl_write
+                0x0000000000012e80                _dl_cache_libcmp
+                0x00000000000136a0                _dl_load_cache_lookup
+                0x00000000000139e0                _dl_unload_cache
+                0x0000000000013a40                _dl_make_tlsdesc_dynamic
+                0x0000000000013d70                _dl_unmap
+                0x0000000000013df0                _dl_tlsdesc_return
+                0x0000000000013e00                _dl_tlsdesc_undefweak
+                0x0000000000013e10                _dl_tlsdesc_dynamic
+                0x0000000000013eb0                __tls_get_addr
+                0x0000000000016520                __x86_cpu_features
+                0x0000000000016540                _dl_x86_init_cpu_features
+                0x0000000000016560                _dl_x86_get_cpu_features
+                0x0000000000016570                _dl_audit_activity_map
+                0x0000000000016610                _dl_audit_activity_nsid
+                0x0000000000016650                _dl_audit_objsearch
+                0x0000000000016720                _dl_audit_objopen
+                0x00000000000167f0                _dl_audit_objclose
+                0x00000000000168b0                _dl_audit_preinit
+                0x0000000000016940                _dl_audit_symbind_alt
+                0x0000000000016940                __GI__dl_audit_symbind_alt
+                0x0000000000016af0                _dl_audit_symbind
+                0x0000000000016d60                _dl_audit_pltenter
+                0x0000000000016f80                _dl_audit_pltexit
+                0x0000000000017180                _dl_diagnostics_print_string
+                0x0000000000017200                _dl_diagnostics_print_labeled_string
+                0x0000000000017240                _dl_diagnostics_print_labeled_value
+                0x0000000000017260                _dl_print_diagnostics
+                0x00000000000176c0                _dl_diagnostics_cpu
+                0x0000000000017e30                _dl_diagnostics_kernel
+                0x0000000000017ee0                _dl_next_ld_env_entry
+                0x0000000000017f40                unsetenv
+                0x0000000000018080                _dl_important_hwcaps
+                0x0000000000018420                _dl_hwcaps_subdirs_active
+                0x00000000000184a0                _dl_hwcaps_split
+                0x0000000000018530                _dl_hwcaps_contains
+                0x00000000000185e0                _dl_hwcaps_split_masked
+                0x0000000000018620                __rtld_libc_freeres
+                0x0000000000018640                __rtld_malloc_init_stubs
+                0x0000000000018680                __sigjmp_save
+                0x0000000000018690                __strerror_r
+                0x00000000000187a0                __GI___libc_fatal
+                0x00000000000187a0                __libc_fatal
+                0x00000000000187c0                __GI___chk_fail
+                0x00000000000187c0                __chk_fail
+                0x00000000000187d0                __GI___assert_fail
+                0x00000000000187d0                __assert_fail
+                0x0000000000018800                __rtld_malloc_is_complete
+                0x0000000000018920                __rtld_malloc_init_real
+                0x0000000000018a30                __GI___assert_perror_fail
+                0x0000000000018a30                __assert_perror_fail
+                0x0000000000018a90                _itoa
+                0x0000000000018ae0                __strsep
+                0x0000000000018ae0                strsep
+                0x0000000000018ae0                __strsep_g
+                0x0000000000018b60                __rtld_mutex_init
+                0x0000000000018c80                _dl_start_profile
+                0x00000000000193d0                __GI__dl_mcount
+                0x00000000000193d0                _dl_mcount
+                0x0000000000019790                _dl_tunable_set_hwcaps
+                0x000000000001a2a0                _dl_sysdep_start
+                0x000000000001a360                _dl_sysdep_start_cleanup
+                0x000000000001a370                _dl_show_auxv
+                0x000000000001a5a0                _dl_usage
+                0x000000000001a5f0                _dl_version
+                0x000000000001a610                _dl_help
+                0x000000000001a900                _start
+                0x000000000001a908                _dl_start_user
+                0x000000000001bd30                handle_preload_list
+                0x000000000001fa70                __brk
+                0x000000000001fa70                brk
+                0x000000000001faa0                __getcwd
+                0x000000000001faa0                getcwd
+                0x00000000000200b0                openat64
+                0x0000000000020100                __alloc_dir
+                0x00000000000201d0                __opendir
+                0x00000000000201d0                opendir
+                0x0000000000020260                sbrk
+                0x0000000000020260                __sbrk
+ *fill*         0x00000000000202ec        0x4 
+ .text          0x00000000000202f0       0xe2 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-check_fds.os)
+                0x00000000000203a0                __libc_check_standard_fds
+ .text          0x00000000000203d2        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errno.os)
+ *fill*         0x00000000000203d2        0xe 
+ .text          0x00000000000203e0       0x26 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-closedir.os)
+                0x00000000000203e0                __closedir
+                0x00000000000203e0                closedir
+ *fill*         0x0000000000020406        0xa 
+ .text          0x0000000000020410       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-rewinddir.os)
+                0x0000000000020410                rewinddir
+                0x0000000000020410                __rewinddir
+ *fill*         0x0000000000020438        0x8 
+ .text          0x0000000000020440       0x8a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os)
+                0x0000000000020440                readdir
+                0x0000000000020440                __readdir64
+                0x0000000000020440                __readdir
+                0x0000000000020440                readdir64
+ *fill*         0x00000000000204ca        0x6 
+ .text          0x00000000000204d0       0x9e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fdopendir.os)
+                0x00000000000204d0                fdopendir
+                0x00000000000204d0                __fdopendir
+ *fill*         0x000000000002056e        0x2 
+ .text          0x0000000000020570       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getdents64.os)
+                0x0000000000020570                __getdents
+                0x0000000000020570                getdents64
+                0x0000000000020570                __getdents64
+ .text          0x00000000000205a0       0x6b /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+                0x00000000000205a0                _dl_addr_inside_object
+ *fill*         0x000000000002060b        0x5 
+ .text          0x0000000000020610       0xf7 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os)
+                0x0000000000020660                __profil
+                0x0000000000020660                profil
+ *fill*         0x0000000000020707        0x9 
+ .text          0x0000000000020710        0x7 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-prof-freq.os)
+                0x0000000000020710                __profile_frequency
+ *fill*         0x0000000000020717        0x9 
+ .text          0x0000000000020720       0x1e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-access.os)
+                0x0000000000020720                access
+                0x0000000000020720                __access
+ *fill*         0x000000000002073e        0x2 
+ .text          0x0000000000020740       0x1e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstat64.os)
+                0x0000000000020740                __GI___fstat64
+                0x0000000000020740                fstat64
+                0x0000000000020740                fstat
+                0x0000000000020740                __fstat64
+                0x0000000000020740                __fstat
+ *fill*         0x000000000002075e        0x2 
+ .text          0x0000000000020760       0x26 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstatat64.os)
+                0x0000000000020760                fstatat
+                0x0000000000020760                __fstatat
+                0x0000000000020760                fstatat64
+                0x0000000000020760                __fstatat64
+                0x0000000000020760                __GI___fstatat
+                0x0000000000020760                __GI___fstatat64
+ *fill*         0x0000000000020786        0xa 
+ .text          0x0000000000020790       0x20 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lseek64.os)
+                0x0000000000020790                __lseek64
+                0x0000000000020790                lseek
+                0x0000000000020790                __libc_lseek64
+                0x0000000000020790                __lseek
+                0x0000000000020790                __libc_lseek
+                0x0000000000020790                lseek64
+ .text          0x00000000000207b0       0x15 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lstat64.os)
+                0x00000000000207b0                __lstat64
+                0x00000000000207b0                lstat
+                0x00000000000207b0                lstat64
+                0x00000000000207b0                __GI___lstat64
+                0x00000000000207b0                __lstat
+ *fill*         0x00000000000207c5        0xb 
+ .text          0x00000000000207d0       0x66 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-openat64.os)
+                0x00000000000207d0                __openat64
+                0x00000000000207d0                __libc_openat64
+                0x00000000000207d0                __openat
+                0x00000000000207d0                openat
+ *fill*         0x0000000000020836        0xa 
+ .text          0x0000000000020840       0x12 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stat64.os)
+                0x0000000000020840                stat64
+                0x0000000000020840                __stat
+                0x0000000000020840                __stat64
+                0x0000000000020840                stat
+                0x0000000000020840                __GI___stat64
+ *fill*         0x0000000000020852        0xe 
+ .text          0x0000000000020860       0x1e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+                0x0000000000020860                __GI___close_nocancel
+ *fill*         0x000000000002087e        0x2 
+ .text          0x0000000000020880       0xe1 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+                0x0000000000020880                __fcntl64_nocancel
+                0x0000000000020880                __GI___fcntl64_nocancel
+                0x0000000000020910                __fcntl64_nocancel_adjusted
+ *fill*         0x0000000000020961        0xf 
+ .text          0x0000000000020970       0x6e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+                0x0000000000020970                __GI___open_nocancel
+                0x0000000000020970                __open_nocancel
+                0x0000000000020970                __GI___open64_nocancel
+                0x0000000000020970                __open64_nocancel
+ *fill*         0x00000000000209de        0x2 
+ .text          0x00000000000209e0       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+                0x00000000000209e0                __GI___pread64_nocancel
+                0x00000000000209e0                __pread64_nocancel
+ *fill*         0x0000000000020a08        0x8 
+ .text          0x0000000000020a10       0x20 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+                0x0000000000020a10                __read_nocancel
+                0x0000000000020a10                __GI___read_nocancel
+ .text          0x0000000000020a30       0x20 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+                0x0000000000020a30                __GI___write_nocancel
+                0x0000000000020a30                __write_nocancel
+ .text          0x0000000000020a50       0xaf /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+                0x0000000000020a50                __libc_scratch_buffer_set_array_size
+ *fill*         0x0000000000020aff        0x1 
+ .text          0x0000000000020b00       0x99 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mmap64.os)
+                0x0000000000020b00                __mmap
+                0x0000000000020b00                mmap
+                0x0000000000020b00                __mmap64
+                0x0000000000020b00                mmap64
+ *fill*         0x0000000000020b99        0x7 
+ .text          0x0000000000020ba0       0x20 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mprotect.os)
+                0x0000000000020ba0                __mprotect
+                0x0000000000020ba0                __GI___mprotect
+                0x0000000000020ba0                __GI_mprotect
+                0x0000000000020ba0                mprotect
+ .text          0x0000000000020bc0       0x20 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-munmap.os)
+                0x0000000000020bc0                munmap
+                0x0000000000020bc0                __GI___munmap
+                0x0000000000020bc0                __GI_munmap
+                0x0000000000020bc0                __munmap
+ .text          0x0000000000020be0       0x7c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setvmaname.os)
+                0x0000000000020be0                __set_vma_name
+ *fill*         0x0000000000020c5c        0x4 
+ .text          0x0000000000020c60       0xe4 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                0x0000000000020c60                __lll_lock_wait_private
+                0x0000000000020cb0                __lll_lock_wait
+                0x0000000000020d10                __lll_lock_wake_private
+                0x0000000000020d30                __lll_lock_wake
+ *fill*         0x0000000000020d44        0xc 
+ .text          0x0000000000020d50       0x22 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-_exit.os)
+                0x0000000000020d50                _Exit
+                0x0000000000020d50                __GI__exit
+                0x0000000000020d50                _exit
+ *fill*         0x0000000000020d72        0xe 
+ .text          0x0000000000020d80        0x8 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getpid.os)
+                0x0000000000020d80                __getpid
+                0x0000000000020d80                getpid
+                0x0000000000020d80                __GI_getpid
+                0x0000000000020d80                __GI___getpid
+ *fill*         0x0000000000020d88        0x8 
+ .text          0x0000000000020d90       0x20 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-uname.os)
+                0x0000000000020d90                uname
+                0x0000000000020d90                __GI_uname
+                0x0000000000020d90                __uname
+                0x0000000000020d90                __GI___uname
+ .text          0x0000000000020db0        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-environ.os)
+ .text          0x0000000000020db0       0x4f /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setjmp.os)
+                0x0000000000020db0                __sigsetjmp
+                0x0000000000020db0                __GI___sigsetjmp
+ *fill*         0x0000000000020dff        0x1 
+ .text          0x0000000000020e00       0x4a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-__longjmp.os)
+                0x0000000000020e00                __longjmp
+ *fill*         0x0000000000020e4a        0x6 
+ .text          0x0000000000020e50       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-sigaction.os)
+                0x0000000000020e50                sigaction
+                0x0000000000020e50                __sigaction
+ *fill*         0x0000000000020e78        0x8 
+ .text          0x0000000000020e80      0x1a7 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                0x0000000000020ea0                __libc_sigaction
+ *fill*         0x0000000000021027        0x9 
+ .text          0x0000000000021030      0x323 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memchr.os)
+                0x0000000000021030                memchr
+                0x0000000000021030                __memchr
+ *fill*         0x0000000000021353        0xd 
+ .text          0x0000000000021360      0x2d0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memcmp.os)
+                0x0000000000021360                bcmp
+                0x0000000000021360                memcmp
+ .text          0x0000000000021630      0x1e1 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memmove.os)
+                0x0000000000021630                mempcpy
+                0x0000000000021630                __mempcpy
+                0x0000000000021640                memmove
+                0x0000000000021640                memcpy
+ *fill*         0x0000000000021811        0xf 
+ .text          0x0000000000021820       0xc9 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memset.os)
+                0x0000000000021820                memset
+ *fill*         0x00000000000218e9        0x7 
+ .text          0x00000000000218f0      0x6b0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stpcpy.os)
+                0x00000000000218f0                stpcpy
+                0x00000000000218f0                __stpcpy
+ .text          0x0000000000021fa0      0x21a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchr.os)
+                0x0000000000021fa0                index
+                0x0000000000021fa0                strchr
+ *fill*         0x00000000000221ba        0x6 
+ .text          0x00000000000221c0     0x1439 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcmp.os)
+                0x00000000000221c0                strcmp
+ *fill*         0x00000000000235f9        0x7 
+ .text          0x0000000000023600      0x17d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcspn.os)
+                0x0000000000023600                strcspn
+ *fill*         0x000000000002377d        0x3 
+ .text          0x0000000000023780       0x41 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strdup.os)
+                0x0000000000023780                __strdup
+                0x0000000000023780                strdup
+ *fill*         0x00000000000237c1        0xf 
+ .text          0x00000000000237d0        0x5 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+                0x00000000000237d0                strerrorname_np
+ *fill*         0x00000000000237d5        0xb 
+ .text          0x00000000000237e0      0x19c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strlen.os)
+                0x00000000000237e0                strlen
+ *fill*         0x000000000002397c        0x4 
+ .text          0x0000000000023980     0x1849 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strncmp.os)
+                0x0000000000023980                strncmp
+ *fill*         0x00000000000251c9        0x7 
+ .text          0x00000000000251d0      0x218 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strnlen.os)
+                0x00000000000251d0                __strnlen
+                0x00000000000251d0                strnlen
+ *fill*         0x00000000000253e8        0x8 
+ .text          0x00000000000253f0      0x20a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchrnul.os)
+                0x00000000000253f0                __strchrnul
+                0x00000000000253f0                strchrnul
+ *fill*         0x00000000000255fa        0x6 
+ .text          0x0000000000025600       0x1e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setitimer.os)
+                0x0000000000025600                setitimer
+                0x0000000000025600                __setitimer
+ *fill*         0x000000000002561e        0x2 
+ .text          0x0000000000025620       0x33 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os)
+                0x0000000000025620                __get_errname
+ *(.gnu.warning)
+
+.text.evex512   0x0000000000000000      0x3f9
+ .text.evex512  0x0000000000000000      0x3f9 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+                0x0000000000000000                _dl_runtime_profile_avx512
+
+.text.avx       0x0000000000000000      0x3eb
+ .text.avx      0x0000000000000000      0x3eb /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+                0x0000000000000000                _dl_runtime_profile_avx
+
+.text.compat    0x0000000000000000        0x1
+ .text.compat   0x0000000000000000        0x1 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+                0x0000000000000000                __rtld_version_placeholder_1
+                0x0000000000000000                __rtld_version_placeholder@GLIBC_2.34
+
+.fini
+ *(SORT_NONE(.fini))
+
+.rodata         0x0000000000000000     0x1975
+ *(.rodata)
+ .rodata        0x0000000000000000     0x12f2 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+ .rodata        0x00000000000012f2       0x80 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ *fill*         0x0000000000001372        0x6 
+ .rodata        0x0000000000001378       0x40 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .rodata        0x00000000000013b8       0x40 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strncmp.os)
+ *fill*         0x00000000000013f8        0x8 
+ .rodata        0x0000000000001400      0x575 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os)
+
+.rodata.str1.1  0x0000000000000000     0x1815
+ .rodata.str1.1
+                0x0000000000000000     0x1801 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x0000000000001801       0x14 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-check_fds.os)
+
+.rodata.str1.16
+                0x0000000000000000      0x545
+ .rodata.str1.16
+                0x0000000000000000      0x545 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+                0x0000000000000390                _dl_hwcaps_subdirs
+                0x00000000000003f0                __GI__itoa_lower_digits
+                0x00000000000003f0                _itoa_lower_digits
+
+.rodata.str1.8  0x0000000000000000     0x2f4f
+ .rodata.str1.8
+                0x0000000000000000     0x2f11 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+ *fill*         0x0000000000002f11        0x7 
+ .rodata.str1.8
+                0x0000000000002f18       0x37 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+
+.rodata.str1.32
+                0x0000000000000000       0x5b
+ .rodata.str1.32
+                0x0000000000000000       0x5b /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+
+.rodata.cst4    0x0000000000000000        0x8
+ .rodata.cst4   0x0000000000000000        0x8 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+                0x0000000000000004                __rseq_flags
+
+.rodata.cst2    0x0000000000000000        0x2
+ .rodata.cst2   0x0000000000000000        0x2 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+
+.rodata.cst16   0x0000000000000000       0x30
+ .rodata.cst16  0x0000000000000000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+
+.rodata.cst8    0x0000000000000000        0x8
+ .rodata.cst8   0x0000000000000000        0x8 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x3ccc
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x3110 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+                                       0x3188 (size before relaxing)
+ .eh_frame      0x0000000000003110       0x60 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .eh_frame      0x0000000000003170       0x38 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-closedir.os)
+ .eh_frame      0x00000000000031a8       0x38 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .eh_frame      0x00000000000031e0       0x40 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .eh_frame      0x0000000000003220       0x50 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .eh_frame      0x0000000000003270       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .eh_frame      0x00000000000032a0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .eh_frame      0x00000000000032d0       0x48 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os)
+ .eh_frame      0x0000000000003318       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .eh_frame      0x0000000000003348       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-access.os)
+ .eh_frame      0x0000000000003378       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .eh_frame      0x00000000000033a8       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .eh_frame      0x00000000000033d8       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .eh_frame      0x0000000000003408       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .eh_frame      0x0000000000003438       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-openat64.os)
+ .eh_frame      0x0000000000003468       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stat64.os)
+ .eh_frame      0x0000000000003498       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .eh_frame      0x00000000000034c8       0x40 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .eh_frame      0x0000000000003508       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .eh_frame      0x0000000000003538       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .eh_frame      0x0000000000003568       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .eh_frame      0x0000000000003598       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .eh_frame      0x00000000000035c8       0x58 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .eh_frame      0x0000000000003620       0x48 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .eh_frame      0x0000000000003668       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .eh_frame      0x0000000000003698       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-munmap.os)
+ .eh_frame      0x00000000000036c8       0x58 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .eh_frame      0x0000000000003720       0x70 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .eh_frame      0x0000000000003790       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-_exit.os)
+ .eh_frame      0x00000000000037c0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getpid.os)
+ .eh_frame      0x00000000000037f0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-uname.os)
+ .eh_frame      0x0000000000003820       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .eh_frame      0x0000000000003850       0x48 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .eh_frame      0x0000000000003898       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .eh_frame      0x00000000000038c8       0xc8 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+                                         0xd0 (size before relaxing)
+ .eh_frame      0x0000000000003990       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memchr.os)
+ .eh_frame      0x00000000000039c0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .eh_frame      0x00000000000039f0       0x40 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memmove.os)
+ .eh_frame      0x0000000000003a30       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memset.os)
+ .eh_frame      0x0000000000003a60       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .eh_frame      0x0000000000003a90       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchr.os)
+ .eh_frame      0x0000000000003ac0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .eh_frame      0x0000000000003af0       0x40 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .eh_frame      0x0000000000003b30       0x50 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strdup.os)
+ .eh_frame      0x0000000000003b80       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .eh_frame      0x0000000000003bb0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strlen.os)
+ .eh_frame      0x0000000000003be0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .eh_frame      0x0000000000003c10       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .eh_frame      0x0000000000003c40       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .eh_frame      0x0000000000003c70       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .eh_frame      0x0000000000003ca0       0x2c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os)
+                                         0x30 (size before relaxing)
+
+.sframe
+ *(.sframe)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.eh_frame
+ *(.eh_frame)
+
+.sframe
+ *(.sframe)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.exception_ranges
+ *(.exception_ranges)
+
+.tdata
+ *(.tdata)
+
+.tbss
+ *(.tbss)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+
+.got.plt
+ *(.got.plt)
+
+.data           0x0000000000000000     0x1104
+ *(.data)
+ .data          0x0000000000000000     0x1100 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errno.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-closedir.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-access.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-openat64.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stat64.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .data          0x0000000000001100        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-munmap.os)
+ .data          0x0000000000001100        0x4 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-_exit.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getpid.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-uname.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-environ.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memchr.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memmove.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memset.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchr.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strdup.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strlen.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .data          0x0000000000001104        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os)
+
+.data.rel.ro.local
+                0x0000000000000000       0x28
+ .data.rel.ro.local
+                0x0000000000000000       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+                0x0000000000000008                __x86_cpu_features_p
+
+.data.rel.ro    0x0000000000000000     0x1aa8
+ .data.rel.ro   0x0000000000000000     0x1aa8 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+                0x0000000000000040                __rtld_search_dirs
+                0x0000000000000070                __rtld_env_path_list
+                0x0000000000000080                __stack_prot
+                0x0000000000000088                __rseq_offset
+                0x0000000000000090                __rseq_size
+                0x0000000000001668                __rtld_realloc
+                0x0000000000001670                __rtld_malloc
+                0x0000000000001678                __rtld_free
+                0x0000000000001680                __rtld_calloc
+                0x0000000000001688                ___rtld_mutex_unlock
+                0x0000000000001690                ___rtld_mutex_lock
+                0x0000000000001698                _dl_random
+                0x00000000000016a0                __libc_stack_end
+                0x00000000000016a0                __GI___libc_stack_end
+                0x00000000000016a8                __GI___libc_enable_secure
+                0x00000000000016a8                __libc_enable_secure
+                0x00000000000016d0                __pointer_chk_guard_local
+                0x00000000000016d8                __GI__dl_argv
+                0x00000000000016d8                _dl_argv
+                0x00000000000016e0                _dl_argc
+                0x0000000000001700                _rtld_global_ro
+                0x0000000000001700                _rtld_local_ro
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x1c8
+ *(.bss)
+ .bss           0x0000000000000000      0x190 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+                0x0000000000000018                _r_debug_extended
+                0x0000000000000018                _r_debug
+                0x0000000000000090                __nptl_initial_report_events
+                0x0000000000000090                __GI___nptl_initial_report_events
+                0x00000000000000c8                _dl_hwcaps_priorities_length
+                0x00000000000000d0                _dl_hwcaps_priorities
+                0x0000000000000120                __rtld_tls_init_tp_called
+                0x0000000000000188                __curbrk
+ .bss           0x0000000000000190        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .bss           0x0000000000000190        0x4 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errno.os)
+                0x0000000000000190                rtld_errno
+ .bss           0x0000000000000194        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-closedir.os)
+ .bss           0x0000000000000194        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .bss           0x0000000000000194        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .bss           0x0000000000000194        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .bss           0x0000000000000194        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .bss           0x0000000000000194        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ *fill*         0x0000000000000194        0x4 
+ .bss           0x0000000000000198       0x20 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-access.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-openat64.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stat64.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-munmap.os)
+ .bss           0x00000000000001b8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .bss           0x00000000000001b8        0x4 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+                0x00000000000001b8                __pthread_force_elision
+ .bss           0x00000000000001bc        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-_exit.os)
+ .bss           0x00000000000001bc        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getpid.os)
+ .bss           0x00000000000001bc        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-uname.os)
+ *fill*         0x00000000000001bc        0x4 
+ .bss           0x00000000000001c0        0x8 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-environ.os)
+                0x00000000000001c0                _environ
+                0x00000000000001c0                __environ
+                0x00000000000001c0                environ
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memchr.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memmove.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memset.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchr.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strdup.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strlen.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .bss           0x00000000000001c8        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os)
+
+.lbss
+ *(.lbss)
+
+.lrodata
+ *(.lrodata)
+
+.ldata
+ *(.ldata)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0x9f4
+ *(.comment)
+ .comment       0x0000000000000000      0x604 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+ .comment       0x0000000000000604       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .comment       0x0000000000000620       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errno.os)
+ .comment       0x000000000000063c       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-closedir.os)
+ .comment       0x0000000000000658       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .comment       0x0000000000000674       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .comment       0x0000000000000690       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .comment       0x00000000000006ac       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .comment       0x00000000000006c8       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .comment       0x00000000000006e4       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os)
+ .comment       0x0000000000000700       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .comment       0x000000000000071c       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-access.os)
+ .comment       0x0000000000000738       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .comment       0x0000000000000754       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .comment       0x0000000000000770       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .comment       0x000000000000078c       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .comment       0x00000000000007a8       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-openat64.os)
+ .comment       0x00000000000007c4       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stat64.os)
+ .comment       0x00000000000007e0       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .comment       0x00000000000007fc       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .comment       0x0000000000000818       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .comment       0x0000000000000834       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .comment       0x0000000000000850       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .comment       0x000000000000086c       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .comment       0x0000000000000888       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .comment       0x00000000000008a4       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .comment       0x00000000000008c0       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .comment       0x00000000000008dc       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .comment       0x00000000000008f8       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-_exit.os)
+ .comment       0x0000000000000914       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-environ.os)
+ .comment       0x0000000000000930       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .comment       0x000000000000094c       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .comment       0x0000000000000968       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .comment       0x0000000000000984       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strdup.os)
+ .comment       0x00000000000009a0       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .comment       0x00000000000009bc       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .comment       0x00000000000009d8       0x1c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-openat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stat64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memmove.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os)
+
+.gnu.build.attributes
+ *(.gnu.build.attributes)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000     0x14d0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0xb00 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+ .debug_aranges
+                0x0000000000000b00       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_aranges
+                0x0000000000000b30       0x20 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_aranges
+                0x0000000000000b50       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_aranges
+                0x0000000000000b80       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_aranges
+                0x0000000000000bb0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_aranges
+                0x0000000000000be0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_aranges
+                0x0000000000000c10       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_aranges
+                0x0000000000000c40       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_aranges
+                0x0000000000000c70       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_aranges
+                0x0000000000000ca0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_aranges
+                0x0000000000000cd0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_aranges
+                0x0000000000000d00       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_aranges
+                0x0000000000000d30       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_aranges
+                0x0000000000000d60       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_aranges
+                0x0000000000000d90       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_aranges
+                0x0000000000000dc0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_aranges
+                0x0000000000000df0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_aranges
+                0x0000000000000e20       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_aranges
+                0x0000000000000e50       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_aranges
+                0x0000000000000e80       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_aranges
+                0x0000000000000eb0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_aranges
+                0x0000000000000ee0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_aranges
+                0x0000000000000f10       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_aranges
+                0x0000000000000f40       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_aranges
+                0x0000000000000f70       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_aranges
+                0x0000000000000fa0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_aranges
+                0x0000000000000fd0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_aranges
+                0x0000000000001000       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .debug_aranges
+                0x0000000000001030       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_aranges
+                0x0000000000001060       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_aranges
+                0x0000000000001090       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_aranges
+                0x00000000000010c0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_aranges
+                0x00000000000010f0       0x20 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_aranges
+                0x0000000000001110       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_aranges
+                0x0000000000001140       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_aranges
+                0x0000000000001170       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_aranges
+                0x00000000000011a0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_aranges
+                0x00000000000011d0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_aranges
+                0x0000000000001200       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_aranges
+                0x0000000000001230       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_aranges
+                0x0000000000001260       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_aranges
+                0x0000000000001290       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_aranges
+                0x00000000000012c0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_aranges
+                0x00000000000012f0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_aranges
+                0x0000000000001320       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_aranges
+                0x0000000000001350       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_aranges
+                0x0000000000001380       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_aranges
+                0x00000000000013b0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_aranges
+                0x00000000000013e0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_aranges
+                0x0000000000001410       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_aranges
+                0x0000000000001440       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_aranges
+                0x0000000000001470       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_aranges
+                0x00000000000014a0       0x30 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x9458b
+ *(.debug_info)
+ .debug_info    0x0000000000000000    0x88d0d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+ .debug_info    0x0000000000088d0d      0x4c9 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_info    0x00000000000891d6       0x98 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_info    0x000000000008926e      0x242 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_info    0x00000000000894b0      0x1b5 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_info    0x0000000000089665      0x2a5 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_info    0x000000000008990a      0x401 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_info    0x0000000000089d0b      0x184 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_info    0x0000000000089e8f      0xaf2 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_info    0x000000000008a981      0xb64 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_info    0x000000000008b4e5     0x1dfa /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_info    0x000000000008d2df      0x14a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_info    0x000000000008d429      0x2cc /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_info    0x000000000008d6f5      0x3f7 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_info    0x000000000008daec      0x180 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_info    0x000000000008dc6c      0x29a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_info    0x000000000008df06      0x2d1 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_info    0x000000000008e1d7      0x298 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_info    0x000000000008e46f      0x11f /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_info    0x000000000008e58e      0x589 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_info    0x000000000008eb17      0x245 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_info    0x000000000008ed5c      0x1ce /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_info    0x000000000008ef2a      0x192 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_info    0x000000000008f0bc      0x197 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_info    0x000000000008f253      0x3ba /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_info    0x000000000008f60d     0x22ba /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_info    0x00000000000918c7       0x6a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_info    0x0000000000091931       0x6a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_info    0x000000000009199b      0x427 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .debug_info    0x0000000000091dc2      0x5eb /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_info    0x00000000000923ad      0x122 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_info    0x00000000000924cf       0x6a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_info    0x0000000000092539       0x6a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_info    0x00000000000925a3       0xb2 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_info    0x0000000000092655       0x48 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_info    0x000000000009269d       0x39 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_info    0x00000000000926d6      0x623 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_info    0x0000000000092cf9      0x5fb /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_info    0x00000000000932f4       0x4d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_info    0x0000000000093341       0x4d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_info    0x000000000009338e       0x6d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_info    0x00000000000933fb       0x3b /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_info    0x0000000000093436       0x4d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_info    0x0000000000093483       0x4d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_info    0x00000000000934d0       0x3b /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_info    0x000000000009350b      0x1f5 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_info    0x0000000000093700      0x1ec /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_info    0x00000000000938ec       0xd7 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_info    0x00000000000939c3       0x3b /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_info    0x00000000000939fe       0x3b /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_info    0x0000000000093a39       0x4d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_info    0x0000000000093a86       0x4d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_info    0x0000000000093ad3      0x21e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_info    0x0000000000093cf1      0x89a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_abbrev   0x0000000000000000    0x1451a
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000    0x1106f /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+ .debug_abbrev  0x000000000001106f      0x1bb /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_abbrev  0x000000000001122a       0x48 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_abbrev  0x0000000000011272      0x19c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_abbrev  0x000000000001140e      0x10e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_abbrev  0x000000000001151c      0x185 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_abbrev  0x00000000000116a1      0x194 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_abbrev  0x0000000000011835       0xc7 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_abbrev  0x00000000000118fc      0x218 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_abbrev  0x0000000000011b14      0x2df /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_abbrev  0x0000000000011df3      0x32a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_abbrev  0x000000000001211d       0xb6 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_abbrev  0x00000000000121d3       0xf8 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_abbrev  0x00000000000122cb      0x1a2 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_abbrev  0x000000000001246d       0xc6 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_abbrev  0x0000000000012533       0xfa /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_abbrev  0x000000000001262d      0x157 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_abbrev  0x0000000000012784       0xfa /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_abbrev  0x000000000001287e       0xa3 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_abbrev  0x0000000000012921      0x202 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_abbrev  0x0000000000012b23      0x119 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_abbrev  0x0000000000012c3c       0xda /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_abbrev  0x0000000000012d16       0xcf /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_abbrev  0x0000000000012de5       0xd6 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_abbrev  0x0000000000012ebb      0x24c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_abbrev  0x0000000000013107      0x416 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_abbrev  0x000000000001351d       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_abbrev  0x0000000000013545       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_abbrev  0x000000000001356d      0x19c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .debug_abbrev  0x0000000000013709      0x1d9 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_abbrev  0x00000000000138e2       0xa7 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_abbrev  0x0000000000013989       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_abbrev  0x00000000000139b1       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_abbrev  0x00000000000139d9       0x72 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_abbrev  0x0000000000013a4b       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_abbrev  0x0000000000013a73       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_abbrev  0x0000000000013a9b      0x1c7 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_abbrev  0x0000000000013c62      0x1c6 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_abbrev  0x0000000000013e28       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_abbrev  0x0000000000013e50       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_abbrev  0x0000000000013e78       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_abbrev  0x0000000000013ea0       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_abbrev  0x0000000000013ec8       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_abbrev  0x0000000000013ef0       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_abbrev  0x0000000000013f18       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_abbrev  0x0000000000013f40      0x113 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_abbrev  0x0000000000014053      0x15c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_abbrev  0x00000000000141af       0x9c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_abbrev  0x000000000001424b       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_abbrev  0x0000000000014273       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_abbrev  0x000000000001429b       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_abbrev  0x00000000000142c3       0x28 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_abbrev  0x00000000000142eb      0x10f /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_abbrev  0x00000000000143fa      0x120 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_line     0x0000000000000000    0x23361
+ *(.debug_line)
+ .debug_line    0x0000000000000000    0x1fed0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+ .debug_line    0x000000000001fed0      0x12b /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_line    0x000000000001fffb       0x3f /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_line    0x000000000002003a       0xd8 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_line    0x0000000000020112       0xb6 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_line    0x00000000000201c8      0x11d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_line    0x00000000000202e5      0x133 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_line    0x0000000000020418       0xb0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_line    0x00000000000204c8       0xf4 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_line    0x00000000000205bc      0x21c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_line    0x00000000000207d8      0x114 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_line    0x00000000000208ec       0x86 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_line    0x0000000000020972       0xa9 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_line    0x0000000000020a1b       0xbf /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_line    0x0000000000020ada       0xa1 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_line    0x0000000000020b7b       0x7e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_line    0x0000000000020bf9       0xf9 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_line    0x0000000000020cf2       0x7e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_line    0x0000000000020d70       0x84 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_line    0x0000000000020df4      0x169 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_line    0x0000000000020f5d       0xc6 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_line    0x0000000000021023       0xb1 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_line    0x00000000000210d4       0xa8 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_line    0x000000000002117c       0xa8 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_line    0x0000000000021224      0x189 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_line    0x00000000000213ad      0x1ef /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_line    0x000000000002159c       0x50 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_line    0x00000000000215ec       0x50 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_line    0x000000000002163c      0x105 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .debug_line    0x0000000000021741      0x1ae /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_line    0x00000000000218ef       0x8a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_line    0x0000000000021979       0x4f /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_line    0x00000000000219c8       0x50 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_line    0x0000000000021a18       0x3f /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_line    0x0000000000021a57       0x60 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_line    0x0000000000021ab7       0x5e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_line    0x0000000000021b15       0xd3 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_line    0x0000000000021be8      0x1bb /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_line    0x0000000000021da3      0x118 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_line    0x0000000000021ebb      0x137 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_line    0x0000000000021ff2       0xda /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_line    0x00000000000220cc       0x96 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_line    0x0000000000022162      0x1c8 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_line    0x000000000002232a       0xd0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_line    0x00000000000223fa      0x48e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_line    0x0000000000022888      0x18c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_line    0x0000000000022a14       0xaf /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_line    0x0000000000022ac3       0x5a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_line    0x0000000000022b1d       0x97 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_line    0x0000000000022bb4      0x524 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_line    0x00000000000230d8       0x9a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_line    0x0000000000023172       0xcb /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_line    0x000000000002323d       0xa9 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_line    0x00000000000232e6       0x7b /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000    0x58d61
+ *(.debug_str)
+ .debug_str     0x0000000000000000    0x4f583 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+ .debug_str     0x000000000004f583      0x374 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_str     0x000000000004f8f7      0x193 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_str     0x000000000004fa8a      0x23b /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_str     0x000000000004fcc5      0x201 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_str     0x000000000004fec6      0x27d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_str     0x0000000000050143      0x367 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_str     0x00000000000504aa      0x1e6 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_str     0x0000000000050690      0x8fa /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_str     0x0000000000050f8a      0x6c1 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_str     0x000000000005164b     0x13f1 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_str     0x0000000000052a3c      0x1c5 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_str     0x0000000000052c01      0x2dd /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_str     0x0000000000052ede      0x308 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_str     0x00000000000531e6      0x1e3 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_str     0x00000000000533c9      0x29e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_str     0x0000000000053667      0x26d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_str     0x00000000000538d4      0x29c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_str     0x0000000000053b70      0x1d2 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_str     0x0000000000053d42      0x2bf /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_str     0x0000000000054001      0x264 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_str     0x0000000000054265      0x223 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_str     0x0000000000054488      0x1fe /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_str     0x0000000000054686      0x200 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_str     0x0000000000054886      0x287 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_str     0x0000000000054b0d     0x17f0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_str     0x00000000000562fd       0x98 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_str     0x0000000000056395       0x90 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_str     0x0000000000056425      0x6d6 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .debug_str     0x0000000000056afb      0x27a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_str     0x0000000000056d75      0x1c3 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_str     0x0000000000056f38       0x91 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_str     0x0000000000056fc9       0x8d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_str     0x0000000000057056      0x186 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_str     0x00000000000571dc       0x7d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_str     0x0000000000057259       0x6d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_str     0x00000000000572c6      0x3cc /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_str     0x0000000000057692      0x3ff /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_str     0x0000000000057a91       0x8c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_str     0x0000000000057b1d       0x88 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_str     0x0000000000057ba5       0x9f /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_str     0x0000000000057c44       0x91 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_str     0x0000000000057cd5       0x96 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_str     0x0000000000057d6b       0x89 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_str     0x0000000000057df4       0x83 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_str     0x0000000000057e77      0x1b5 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_str     0x000000000005802c      0x1cb /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_str     0x00000000000581f7      0x176 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_str     0x000000000005836d       0x83 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_str     0x00000000000583f0       0x84 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_str     0x0000000000058474       0x8e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_str     0x0000000000058502       0x92 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_str     0x0000000000058594      0x273 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_str     0x0000000000058807      0x55a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.debug_addr
+ *(.debug_addr)
+
+.debug_line_str
+                0x0000000000000000     0xea18
+ *(.debug_line_str)
+ .debug_line_str
+                0x0000000000000000     0xb154 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+ .debug_line_str
+                0x000000000000b154      0x16b /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_line_str
+                0x000000000000b2bf       0x97 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errno.os)
+ .debug_line_str
+                0x000000000000b356      0x197 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_line_str
+                0x000000000000b4ed      0x18b /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_line_str
+                0x000000000000b678      0x1b1 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_line_str
+                0x000000000000b829      0x202 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_line_str
+                0x000000000000ba2b      0x146 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_line_str
+                0x000000000000bb71      0x1d6 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_line_str
+                0x000000000000bd47      0x2eb /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_line_str
+                0x000000000000c032      0x2e6 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-prof-freq.os)
+ .debug_line_str
+                0x000000000000c318       0xce /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_line_str
+                0x000000000000c3e6      0x13e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_line_str
+                0x000000000000c524      0x144 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_line_str
+                0x000000000000c668       0xf9 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_line_str
+                0x000000000000c761      0x141 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_line_str
+                0x000000000000c8a2      0x13c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_line_str
+                0x000000000000c9de      0x13e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_line_str
+                0x000000000000cb1c       0xe6 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_line_str
+                0x000000000000cc02      0x16e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_line_str
+                0x000000000000cd70      0x12d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_line_str
+                0x000000000000ce9d      0x14d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_line_str
+                0x000000000000cfea      0x144 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_line_str
+                0x000000000000d12e      0x147 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_line_str
+                0x000000000000d275      0x13d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_line_str
+                0x000000000000d3b2      0x2f7 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_line_str
+                0x000000000000d6a9       0x5a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mprotect.os)
+ .debug_line_str
+                0x000000000000d703       0x5a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-munmap.os)
+ .debug_line_str
+                0x000000000000d75d      0x1a2 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .debug_line_str
+                0x000000000000d8ff       0xde /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_line_str
+                0x000000000000d9dd       0xd1 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_line_str
+                0x000000000000daae       0x5b /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getpid.os)
+ .debug_line_str
+                0x000000000000db09       0x5b /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-uname.os)
+ .debug_line_str
+                0x000000000000db64       0xa0 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-environ.os)
+ .debug_line_str
+                0x000000000000dc04       0x54 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setjmp.os)
+ .debug_line_str
+                0x000000000000dc58       0x57 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-__longjmp.os)
+ .debug_line_str
+                0x000000000000dcaf      0x1b3 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_line_str
+                0x000000000000de62      0x205 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_line_str
+                0x000000000000e067       0x70 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memchr.os)
+ .debug_line_str
+                0x000000000000e0d7       0x70 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memcmp.os)
+ .debug_line_str
+                0x000000000000e147       0x72 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memmove.os)
+ .debug_line_str
+                0x000000000000e1b9       0x7e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-memset.os)
+ .debug_line_str
+                0x000000000000e237       0x7a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stpcpy.os)
+ .debug_line_str
+                0x000000000000e2b1       0x70 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchr.os)
+ .debug_line_str
+                0x000000000000e321       0x70 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcmp.os)
+ .debug_line_str
+                0x000000000000e391      0x13c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_line_str
+                0x000000000000e4cd       0xf3 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_line_str
+                0x000000000000e5c0       0xbb /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_line_str
+                0x000000000000e67b       0x70 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strlen.os)
+ .debug_line_str
+                0x000000000000e6eb       0x70 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strncmp.os)
+ .debug_line_str
+                0x000000000000e75b       0x70 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strnlen.os)
+ .debug_line_str
+                0x000000000000e7cb       0x70 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strchrnul.os)
+ .debug_line_str
+                0x000000000000e83b      0x128 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_line_str
+                0x000000000000e963       0xb5 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_loclists
+                0x0000000000000000    0x227b1
+ *(.debug_loclists)
+ .debug_loclists
+                0x0000000000000000    0x2147a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+ .debug_loclists
+                0x000000000002147a       0xc5 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-check_fds.os)
+ .debug_loclists
+                0x000000000002153f       0x46 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-closedir.os)
+ .debug_loclists
+                0x0000000000021585       0x25 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-rewinddir.os)
+ .debug_loclists
+                0x00000000000215aa       0x63 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_loclists
+                0x000000000002160d       0x57 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fdopendir.os)
+ .debug_loclists
+                0x0000000000021664      0x119 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_loclists
+                0x000000000002177d       0x83 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-dl-addr-obj.os)
+ .debug_loclists
+                0x0000000000021800      0x14e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_loclists
+                0x000000000002194e       0x2c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_loclists
+                0x000000000002197a       0x2c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_loclists
+                0x00000000000219a6       0x82 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstatat64.os)
+ .debug_loclists
+                0x0000000000021a28       0x34 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_loclists
+                0x0000000000021a5c       0x3e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lstat64.os)
+ .debug_loclists
+                0x0000000000021a9a       0x85 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_loclists
+                0x0000000000021b1f       0x3e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-stat64.os)
+ .debug_loclists
+                0x0000000000021b5d       0x24 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_loclists
+                0x0000000000021b81      0x219 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_loclists
+                0x0000000000021d9a       0xd1 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_loclists
+                0x0000000000021e6b       0x52 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_loclists
+                0x0000000000021ebd       0x34 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_loclists
+                0x0000000000021ef1       0x34 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_loclists
+                0x0000000000021f25      0x115 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_loclists
+                0x000000000002203a      0x1a8 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_loclists
+                0x00000000000221e2       0xd4 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .debug_loclists
+                0x00000000000222b6      0x188 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_loclists
+                0x000000000002243e       0x3a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_loclists
+                0x0000000000022478       0x5f /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-sigaction.os)
+ .debug_loclists
+                0x00000000000224d7       0xd7 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_loclists
+                0x00000000000225ae      0x133 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strcspn.os)
+ .debug_loclists
+                0x00000000000226e1       0x6a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strdup.os)
+ .debug_loclists
+                0x000000000002274b       0x1e /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-strerrorname_np.os)
+ .debug_loclists
+                0x0000000000022769       0x34 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_loclists
+                0x000000000002279d       0x14 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_macro
+ *(.debug_macro)
+
+.debug_names
+ *(.debug_names)
+
+.debug_rnglists
+                0x0000000000000000     0x4252
+ *(.debug_rnglists)
+ .debug_rnglists
+                0x0000000000000000     0x3fec /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/dl-allobjs.os
+ .debug_rnglists
+                0x0000000000003fec       0x14 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-readdir64.os)
+ .debug_rnglists
+                0x0000000000004000       0x3a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-getdents64.os)
+ .debug_rnglists
+                0x000000000000403a       0x18 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-profil.os)
+ .debug_rnglists
+                0x0000000000004052       0x13 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-access.os)
+ .debug_rnglists
+                0x0000000000004065       0x13 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fstat64.os)
+ .debug_rnglists
+                0x0000000000004078       0x13 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lseek64.os)
+ .debug_rnglists
+                0x000000000000408b       0x1a /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-openat64.os)
+ .debug_rnglists
+                0x00000000000040a5       0x13 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-close_nocancel.os)
+ .debug_rnglists
+                0x00000000000040b8       0x3c /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-fcntl_nocancel.os)
+ .debug_rnglists
+                0x00000000000040f4       0x13 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-open64_nocancel.os)
+ .debug_rnglists
+                0x0000000000004107       0x1d /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-pread64_nocancel.os)
+ .debug_rnglists
+                0x0000000000004124       0x13 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-read_nocancel.os)
+ .debug_rnglists
+                0x0000000000004137       0x13 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-write_nocancel.os)
+ .debug_rnglists
+                0x000000000000414a       0x1f /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-scratch_buffer_set_array_size.os)
+ .debug_rnglists
+                0x0000000000004169       0x20 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-mmap64.os)
+ .debug_rnglists
+                0x0000000000004189       0x16 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setvmaname.os)
+ .debug_rnglists
+                0x000000000000419f       0x2f /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-lowlevellock.os)
+ .debug_rnglists
+                0x00000000000041ce       0x13 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-_exit.os)
+ .debug_rnglists
+                0x00000000000041e1       0x4b /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-libc_sigaction.os)
+ .debug_rnglists
+                0x000000000000422c       0x13 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-setitimer.os)
+ .debug_rnglists
+                0x000000000000423f       0x13 /home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/rtld-libc.a(rtld-errname.os)
+
+.debug_str_offsets
+ *(.debug_str_offsets)
+
+.debug_sup
+ *(.debug_sup)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/home/elmuli/DevLop/LinuxOS/hehe/glibc/glibc-2.39/build/elf/librtld.os elf64-x86-64)
