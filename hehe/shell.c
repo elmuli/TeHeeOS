@@ -19,7 +19,7 @@ int main(int argc, char *argv[]){
     *envp = argv[0];
 
     for (;;){
-    write(1, "# ", 2);
+        write(1, "# ", 2);
 
         int count = read(0, command, 255);
         if (count == 1) {

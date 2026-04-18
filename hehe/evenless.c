@@ -50,7 +50,7 @@ int main(int argc, char *argv[])
 
                 if (c == '\n') {
                     current_row++;
-                }else if(c == 0 || c == '0'){
+                }else if(c == 0 && c == '0'){
                     can_read = 0;
                     buf[counter] = '\0';
                     printf("break point\n");
@@ -59,7 +59,7 @@ int main(int argc, char *argv[])
                 buf[counter] = c;
                 counter++;
             }
-            write(1, buf, 4096);
+            write(1, buf, counter);
             if(current_row == row+1 && can_read){
                 write(1, "-- more --", 10);
                 current_row = 1;
