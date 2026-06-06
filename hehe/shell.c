@@ -48,9 +48,8 @@ int main(int argc, char *argv[]){
             continue;
         }else if(intCmCheck == -1){
             write(1, "Sum ting wong\r\n", 15);
-            continue;
+            break;
         }
-
 
         command[count - 1] = 0;
         pid_t fork_result = fork();
@@ -64,10 +63,10 @@ int main(int argc, char *argv[]){
             }
             _exit(-1);
         }else if(fork_result == -1){
-        write(1, "Sum ting wong\r\n", 15);
+            write(1, "Sum ting wong\r\n", 15);
         }else {
-        siginfo_t info;
-        real_waitid(P_ALL, 0, &info, WEXITED);
+            siginfo_t info;
+            real_waitid(P_ALL, 0, &info, WEXITED);
         }
     }
 
